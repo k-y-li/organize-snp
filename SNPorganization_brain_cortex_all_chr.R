@@ -311,8 +311,9 @@ writeData(wb, "Summary", summary_stats, startRow = 1, startCol = 1, rowNames = F
 
 # Format summary sheet
 summary_style <- createStyle(fontSize = 11, fontColour = "black", halign = "center", 
-                             fgFill = "#E6E6FA", border = "TopBottomLeftRight")
+                             fgFill = "grey", border = "TopBottomLeftRight")
 addStyle(wb, "Summary", summary_style, rows = 1, cols = 1:ncol(summary_stats), gridExpand = TRUE)
+setColWidths(wb, "Summary", cols = 1:ncol(summary_stats), widths = "auto")
 
 # Add each chromosome as a separate sheet
 for (chr in names(all_chromosome_results)) {
@@ -326,12 +327,12 @@ for (chr in names(all_chromosome_results)) {
   writeData(wb, sheet_name, chr_data, startRow = 1, startCol = 1, rowNames = FALSE)
   
   # Format headers
-  header_style <- createStyle(fontSize = 10, fontColour = "white", halign = "center", 
-                              fgFill = "#4472C4", border = "TopBottomLeftRight", textDecoration = "bold")
+  header_style <- createStyle(fontSize = 10, fontColour = "black", halign = "center", 
+                              fgFill = "grey", border = "TopBottomLeftRight", textDecoration = "bold")
   addStyle(wb, sheet_name, header_style, rows = 1, cols = 1:ncol(chr_data), gridExpand = TRUE)
   
-  # Auto-size some key columns
-  setColWidths(wb, sheet_name, cols = c(3, 5, 10, 11), widths = "auto")
+  # Auto-size columns
+  setColWidths(wb, sheet_name, cols = 1:ncol(chr_data), widths = "auto")
 }
 
 # Save Excel file
