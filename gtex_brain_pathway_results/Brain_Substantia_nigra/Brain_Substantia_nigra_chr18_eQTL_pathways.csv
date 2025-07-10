@@ -1,0 +1,13 @@
+Chromosome,Pathway_ID,Pathway_Name,Tissue,SNP_chr_pos_ref_alt,SNP_rsID,eQTL_Gene_Ensembl_Versioned,eQTL_Gene_Symbol,eQTL_Gene_Entrez,eQTL_pval_nominal,eQTL_slope,eQTL_TSS_Distance
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr18_62148649_G_C_b38,rs10164266,ENSG00000197563.11,PIGN,23556,1.96738292965134e-08,-0.299286186695099,-38469
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr18_62148649_G_C_b38,rs10164266,ENSG00000197563.11,PIGN,23556,1.96738292965134e-08,-0.299286186695099,-38469
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr18_62149058_A_G_b38,rs9959469,ENSG00000197563.11,PIGN,23556,1.96738292965134e-08,-0.299286186695099,-38060
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr18_62149058_A_G_b38,rs9959469,ENSG00000197563.11,PIGN,23556,1.96738292965134e-08,-0.299286186695099,-38060
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr18_62152775_G_A_b38,rs1506330,ENSG00000197563.11,PIGN,23556,2.72038038875957e-08,-0.295709311962128,-34343
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr18_62152775_G_A_b38,rs1506330,ENSG00000197563.11,PIGN,23556,2.72038038875957e-08,-0.295709311962128,-34343
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr18_62153075_A_G_b38,rs17715613,ENSG00000197563.11,PIGN,23556,1.96738292965134e-08,-0.299286186695099,-34043
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr18_62153075_A_G_b38,rs17715613,ENSG00000197563.11,PIGN,23556,1.96738292965134e-08,-0.299286186695099,-34043
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Substantia_nigra,chr18_23521694_TC_T_b38,rs75991556,ENSG00000141458.13,NPC1,4864,4.84862564512811e-08,0.18548795580864,-64812
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Substantia_nigra,chr18_12279076_C_T_b38,rs4073975,ENSG00000176014.13,TUBB6,84617,2.2724441129553e-08,-0.332550168037415,-28593
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Substantia_nigra,chr18_12279076_C_T_b38,rs4073975,ENSG00000176014.13,TUBB6,84617,2.2724441129553e-08,-0.332550168037415,-28593
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Substantia_nigra,chr18_12279076_C_T_b38,rs4073975,ENSG00000176014.13,TUBB6,84617,2.2724441129553e-08,-0.332550168037415,-28593

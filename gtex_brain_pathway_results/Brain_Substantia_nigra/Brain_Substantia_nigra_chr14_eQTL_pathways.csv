@@ -1,0 +1,777 @@
+Chromosome,Pathway_ID,Pathway_Name,Tissue,SNP_chr_pos_ref_alt,SNP_rsID,eQTL_Gene_Ensembl_Versioned,eQTL_Gene_Symbol,eQTL_Gene_Entrez,eQTL_pval_nominal,eQTL_slope,eQTL_TSS_Distance
+chr14,hsa03410,Base excision repair - Homo sapiens (human),Brain_Substantia_nigra,chr14_20339099_C_T_b38,rs12891805,ENSG00000129484.14,PARP2,10038,4.84050317616054e-08,0.258983969688416,-4587
+chr14,hsa03410,Base excision repair - Homo sapiens (human),Brain_Substantia_nigra,chr14_20342787_C_A_b38,rs4981983,ENSG00000129484.14,PARP2,10038,4.84050317616054e-08,0.258983969688416,-899
+chr14,hsa03410,Base excision repair - Homo sapiens (human),Brain_Substantia_nigra,chr14_20357162_T_TTTCAC_b38,rs10625811,ENSG00000129484.14,PARP2,10038,4.39135928221404e-08,0.24818816781044,13476
+chr14,hsa03410,Base excision repair - Homo sapiens (human),Brain_Substantia_nigra,chr14_20357164_T_G_b38,rs200223594,ENSG00000129484.14,PARP2,10038,4.39135928221404e-08,0.24818816781044,13478
+chr14,hsa03410,Base excision repair - Homo sapiens (human),Brain_Substantia_nigra,chr14_20357203_G_A_b38,rs3093939,ENSG00000129484.14,PARP2,10038,3.52002262753392e-08,0.253398090600967,13517
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73558570_G_A_b38,rs4903124,ENSG00000119673.16,ACOT2,10965,6.7998907612074e-11,-0.458188325166702,-9050
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73562994_A_C_b38,rs2108465,ENSG00000119673.16,ACOT2,10965,1.82071839910652e-09,-0.413861691951752,-4626
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73563190_C_CTCTT_b38,rs35518531,ENSG00000119673.16,ACOT2,10965,2.79860177308019e-11,-0.488385707139969,-4430
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73564260_T_C_b38,rs8020801,ENSG00000119673.16,ACOT2,10965,1.1223280132487e-10,-0.47711044549942,-3360
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73565418_C_T_b38,rs58231493,ENSG00000119673.16,ACOT2,10965,4.26754473586229e-11,-0.411214530467987,-2202
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73565622_A_G_b38,rs7142798,ENSG00000119673.16,ACOT2,10965,1.31268555317956e-11,-0.497899651527405,-1998
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73566890_A_G_b38,rs11626972,ENSG00000119673.16,ACOT2,10965,4.26751895446258e-11,-0.411214560270309,-730
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73571510_G_A_b38,rs10138751,ENSG00000119673.16,ACOT2,10965,1.31268555317956e-11,-0.497899651527405,3890
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73573858_T_C_b38,rs10140438,ENSG00000119673.16,ACOT2,10965,1.31268555317956e-11,-0.497899651527405,6238
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73580491_T_C_b38,rs4044907,ENSG00000119673.16,ACOT2,10965,1.31268555317956e-11,-0.497899651527405,12871
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73580515_C_T_b38,rs4044908,ENSG00000119673.16,ACOT2,10965,1.31268555317956e-11,-0.497899651527405,12895
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73585185_T_G_b38,rs6574128,ENSG00000119673.16,ACOT2,10965,1.31267732251327e-11,-0.49789971113205,17565
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73587517_A_G_b38,rs1859910,ENSG00000119673.16,ACOT2,10965,5.53994029598977e-12,-0.495763659477234,19897
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73588411_G_A_b38,rs8015976,ENSG00000119673.16,ACOT2,10965,1.31268555317956e-11,-0.497899651527405,20791
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73592659_A_C_b38,rs4899472,ENSG00000119673.16,ACOT2,10965,6.69185956100848e-09,-0.416059643030167,25039
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73592679_G_C_b38,rs4899473,ENSG00000119673.16,ACOT2,10965,6.69185956100848e-09,-0.416059643030167,25059
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73594435_TGGCTCAGC_T_b38,rs4044909,ENSG00000119673.16,ACOT2,10965,3.77911842389795e-08,-0.389097362756729,26815
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73595264_T_C_b38,rs2010070,ENSG00000119673.16,ACOT2,10965,6.69185956100848e-09,-0.416059643030167,27644
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73601767_A_G_b38,rs8019790,ENSG00000119673.16,ACOT2,10965,6.69185956100848e-09,-0.416059643030167,34147
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73602186_G_A_b38,rs2108464,ENSG00000119673.16,ACOT2,10965,1.83239982943198e-09,-0.427927315235138,34566
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73610275_T_G_b38,rs10139531,ENSG00000119673.16,ACOT2,10965,6.69185956100848e-09,-0.416059643030167,42655
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73616157_T_C_b38,rs10145553,ENSG00000119673.16,ACOT2,10965,1.43588432295424e-08,-0.40241676568985,48537
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73616260_A_G_b38,rs9323590,ENSG00000119673.16,ACOT2,10965,6.69185956100848e-09,-0.416059643030167,48640
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73618387_G_A_b38,rs7143627,ENSG00000119673.16,ACOT2,10965,1.32167165426392e-08,-0.401935160160065,50767
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73620031_A_C_b38,rs10047916,ENSG00000119673.16,ACOT2,10965,1.32167165426392e-08,-0.401935160160065,52411
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73620716_T_C_b38,rs7157407,ENSG00000119673.16,ACOT2,10965,6.69185956100848e-09,-0.416059643030167,53096
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73624625_C_A_b38,rs6574132,ENSG00000119673.16,ACOT2,10965,1.32167165426392e-08,-0.401935160160065,57005
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73626187_T_C_b38,rs12893366,ENSG00000119673.16,ACOT2,10965,2.7109430892937e-09,-0.412480264902115,58567
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73627780_A_AG_b38,rs71112782,ENSG00000119673.16,ACOT2,10965,1.32167165426392e-08,-0.401935160160065,60160
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73628551_T_C_b38,rs10146918,ENSG00000119673.16,ACOT2,10965,2.7109430892937e-09,-0.412480264902115,60931
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73629009_A_C_b38,rs4903129,ENSG00000119673.16,ACOT2,10965,3.69154672602211e-09,-0.413082480430603,61389
+chr14,hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24309468_C_A_b38,rs2748543,ENSG00000213903.9,LTB4R,1241,3.21630226537592e-08,-0.372903287410736,-3843
+chr14,hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24314208_G_C_b38,rs2224122,ENSG00000213903.9,LTB4R,1241,1.99629597302798e-08,-0.377029687166214,897
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22556694_C_T_b38,rs114260388,ENSG00000129562.11,DAD1,1603,1.57444324820651e-08,0.426213830709457,-32530
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22556694_C_T_b38,rs114260388,ENSG00000129562.11,DAD1,1603,1.57444324820651e-08,0.426213830709457,-32530
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22556694_C_T_b38,rs114260388,ENSG00000129562.11,DAD1,1603,1.57444324820651e-08,0.426213830709457,-32530
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22557052_C_T_b38,rs74036418,ENSG00000129562.11,DAD1,1603,1.31080742250239e-09,0.438949644565582,-32172
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22557052_C_T_b38,rs74036418,ENSG00000129562.11,DAD1,1603,1.31080742250239e-09,0.438949644565582,-32172
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22557052_C_T_b38,rs74036418,ENSG00000129562.11,DAD1,1603,1.31080742250239e-09,0.438949644565582,-32172
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22560625_A_T_b38,rs59927735,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-28599
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22560625_A_T_b38,rs59927735,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-28599
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22560625_A_T_b38,rs59927735,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-28599
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22560962_T_C_b38,rs3811191,ENSG00000129562.11,DAD1,1603,1.0551120585316e-09,0.450342833995819,-28262
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22560962_T_C_b38,rs3811191,ENSG00000129562.11,DAD1,1603,1.0551120585316e-09,0.450342833995819,-28262
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22560962_T_C_b38,rs3811191,ENSG00000129562.11,DAD1,1603,1.0551120585316e-09,0.450342833995819,-28262
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22561165_T_C_b38,rs3811190,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-28059
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22561165_T_C_b38,rs3811190,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-28059
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22561165_T_C_b38,rs3811190,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-28059
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22562042_C_CA_b38,rs34397051,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-27182
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22562042_C_CA_b38,rs34397051,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-27182
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22562042_C_CA_b38,rs34397051,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-27182
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22563188_A_C_b38,rs11628361,ENSG00000129562.11,DAD1,1603,1.0551120585316e-09,0.450342833995819,-26036
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22563188_A_C_b38,rs11628361,ENSG00000129562.11,DAD1,1603,1.0551120585316e-09,0.450342833995819,-26036
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22563188_A_C_b38,rs11628361,ENSG00000129562.11,DAD1,1603,1.0551120585316e-09,0.450342833995819,-26036
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22564938_G_A_b38,rs1051189,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-24286
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22564938_G_A_b38,rs1051189,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-24286
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22564938_G_A_b38,rs1051189,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-24286
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22566686_G_A_b38,rs5742858,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-22538
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22566686_G_A_b38,rs5742858,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-22538
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22566686_G_A_b38,rs5742858,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-22538
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22566802_C_T_b38,rs5742857,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-22422
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22566802_C_T_b38,rs5742857,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-22422
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22566802_C_T_b38,rs5742857,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-22422
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22569333_T_C_b38,rs11628014,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-19891
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22569333_T_C_b38,rs11628014,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-19891
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22569333_T_C_b38,rs11628014,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-19891
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22572157_A_G_b38,rs5742812,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-17067
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22572157_A_G_b38,rs5742812,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-17067
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22572157_A_G_b38,rs5742812,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-17067
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22573578_C_T_b38,rs146684163,ENSG00000129562.11,DAD1,1603,9.84808133675033e-10,0.469082742929459,-15646
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22573578_C_T_b38,rs146684163,ENSG00000129562.11,DAD1,1603,9.84808133675033e-10,0.469082742929459,-15646
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22573578_C_T_b38,rs146684163,ENSG00000129562.11,DAD1,1603,9.84808133675033e-10,0.469082742929459,-15646
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22575697_G_A_b38,rs112795829,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-13527
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22575697_G_A_b38,rs112795829,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-13527
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22575697_G_A_b38,rs112795829,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-13527
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22577095_A_G_b38,rs5742783,ENSG00000129562.11,DAD1,1603,1.99003300379572e-08,0.39055797457695,-12129
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22577095_A_G_b38,rs5742783,ENSG00000129562.11,DAD1,1603,1.99003300379572e-08,0.39055797457695,-12129
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22577095_A_G_b38,rs5742783,ENSG00000129562.11,DAD1,1603,1.99003300379572e-08,0.39055797457695,-12129
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22577855_T_TG_b38,rs5742777,ENSG00000129562.11,DAD1,1603,1.99003300379572e-08,0.39055797457695,-11369
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22577855_T_TG_b38,rs5742777,ENSG00000129562.11,DAD1,1603,1.99003300379572e-08,0.39055797457695,-11369
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22577855_T_TG_b38,rs5742777,ENSG00000129562.11,DAD1,1603,1.99003300379572e-08,0.39055797457695,-11369
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22578122_G_A_b38,rs5742771,ENSG00000129562.11,DAD1,1603,9.40134090096241e-11,0.464902490377426,-11102
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22578122_G_A_b38,rs5742771,ENSG00000129562.11,DAD1,1603,9.40134090096241e-11,0.464902490377426,-11102
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22578122_G_A_b38,rs5742771,ENSG00000129562.11,DAD1,1603,9.40134090096241e-11,0.464902490377426,-11102
+chr14,hsa00510,N-Glycan biosynthesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_22582138_C_T_b38,rs11625520,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-7086
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_22582138_C_T_b38,rs11625520,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-7086
+chr14,hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),Brain_Substantia_nigra,chr14_22582138_C_T_b38,rs11625520,ENSG00000129562.11,DAD1,1603,5.12094120820762e-10,0.451376050710678,-7086
+chr14,hsa00230,Purine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04020,Calcium signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04062,Chemokine signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04114,Oocyte meiosis - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04540,Gap junction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04742,Taste transduction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04912,GnRH signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04914,Progesterone-mediated oocyte maturation - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04916,Melanogenesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04970,Salivary secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04971,Gastric acid secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04972,Pancreatic secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa04976,Bile secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa05414,Dilated cardiomyopathy - Homo sapiens (human),Brain_Substantia_nigra,chr14_24330637_C_T_b38,rs12891732,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-4434
+chr14,hsa00230,Purine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04020,Calcium signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04062,Chemokine signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04114,Oocyte meiosis - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04540,Gap junction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04742,Taste transduction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04912,GnRH signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04914,Progesterone-mediated oocyte maturation - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04916,Melanogenesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04970,Salivary secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04971,Gastric acid secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04972,Pancreatic secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa04976,Bile secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa05414,Dilated cardiomyopathy - Homo sapiens (human),Brain_Substantia_nigra,chr14_24332750_G_C_b38,rs2332322,ENSG00000129467.14,ADCY4,196883,3.49859468480438e-08,-0.266080230474472,-2321
+chr14,hsa00230,Purine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04020,Calcium signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04062,Chemokine signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04114,Oocyte meiosis - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04540,Gap junction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04742,Taste transduction - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04912,GnRH signaling pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04914,Progesterone-mediated oocyte maturation - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04916,Melanogenesis - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04970,Salivary secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04971,Gastric acid secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04972,Pancreatic secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa04976,Bile secretion - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa05414,Dilated cardiomyopathy - Homo sapiens (human),Brain_Substantia_nigra,chr14_24334901_C_T_b38,rs2332323,ENSG00000129467.14,ADCY4,196883,3.55204653872293e-08,-0.267758131027222,-170
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77304491_A_G_b38,rs3815626,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-16505
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77304491_A_G_b38,rs3815626,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-16505
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77304491_A_G_b38,rs3815626,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-16505
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77304491_A_G_b38,rs3815626,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-16505
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77304491_A_G_b38,rs3815626,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-16505
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314012_G_A_b38,rs8007615,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-6984
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314012_G_A_b38,rs8007615,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-6984
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314012_G_A_b38,rs8007615,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-6984
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314012_G_A_b38,rs8007615,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-6984
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314012_G_A_b38,rs8007615,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-6984
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314441_G_A_b38,rs8008449,ENSG00000100577.19,GSTZ1,2954,1.44712387750059e-11,0.360216408967972,-6555
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314441_G_A_b38,rs8008449,ENSG00000100577.19,GSTZ1,2954,1.44712387750059e-11,0.360216408967972,-6555
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314441_G_A_b38,rs8008449,ENSG00000100577.19,GSTZ1,2954,1.44712387750059e-11,0.360216408967972,-6555
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314441_G_A_b38,rs8008449,ENSG00000100577.19,GSTZ1,2954,1.44712387750059e-11,0.360216408967972,-6555
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77314441_G_A_b38,rs8008449,ENSG00000100577.19,GSTZ1,2954,1.44712387750059e-11,0.360216408967972,-6555
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316054_T_A_b38,rs59630055,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-4942
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316054_T_A_b38,rs59630055,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-4942
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316054_T_A_b38,rs59630055,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-4942
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316054_T_A_b38,rs59630055,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-4942
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316054_T_A_b38,rs59630055,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-4942
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316478_A_G_b38,rs2885854,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4518
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316478_A_G_b38,rs2885854,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4518
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316478_A_G_b38,rs2885854,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4518
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316478_A_G_b38,rs2885854,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4518
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316478_A_G_b38,rs2885854,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4518
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316791_A_G_b38,rs2363641,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4205
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316791_A_G_b38,rs2363641,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4205
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316791_A_G_b38,rs2363641,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4205
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316791_A_G_b38,rs2363641,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4205
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77316791_A_G_b38,rs2363641,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-4205
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318315_C_T_b38,rs6574367,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2681
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318315_C_T_b38,rs6574367,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2681
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318315_C_T_b38,rs6574367,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2681
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318315_C_T_b38,rs6574367,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2681
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318315_C_T_b38,rs6574367,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2681
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318368_C_T_b38,rs6574368,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2628
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318368_C_T_b38,rs6574368,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2628
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318368_C_T_b38,rs6574368,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2628
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318368_C_T_b38,rs6574368,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2628
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77318368_C_T_b38,rs6574368,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-2628
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319278_C_T_b38,rs2363642,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1718
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319278_C_T_b38,rs2363642,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1718
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319278_C_T_b38,rs2363642,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1718
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319278_C_T_b38,rs2363642,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1718
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319278_C_T_b38,rs2363642,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1718
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319678_A_G_b38,rs2193594,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1318
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319678_A_G_b38,rs2193594,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1318
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319678_A_G_b38,rs2193594,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1318
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319678_A_G_b38,rs2193594,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1318
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77319678_A_G_b38,rs2193594,ENSG00000100577.19,GSTZ1,2954,1.44713292370876e-11,0.360216379165649,-1318
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320018_G_C_b38,rs7160188,ENSG00000100577.19,GSTZ1,2954,2.39868980319073e-12,0.377737939357758,-978
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320018_G_C_b38,rs7160188,ENSG00000100577.19,GSTZ1,2954,2.39868980319073e-12,0.377737939357758,-978
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320018_G_C_b38,rs7160188,ENSG00000100577.19,GSTZ1,2954,2.39868980319073e-12,0.377737939357758,-978
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320018_G_C_b38,rs7160188,ENSG00000100577.19,GSTZ1,2954,2.39868980319073e-12,0.377737939357758,-978
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320018_G_C_b38,rs7160188,ENSG00000100577.19,GSTZ1,2954,2.39868980319073e-12,0.377737939357758,-978
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320032_G_A_b38,rs7160195,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-964
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320032_G_A_b38,rs7160195,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-964
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320032_G_A_b38,rs7160195,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-964
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320032_G_A_b38,rs7160195,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-964
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320032_G_A_b38,rs7160195,ENSG00000100577.19,GSTZ1,2954,1.5442477818382e-08,0.303870975971222,-964
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320745_C_T_b38,rs2270421,ENSG00000100577.19,GSTZ1,2954,1.70162834244081e-11,0.358331292867661,-251
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320745_C_T_b38,rs2270421,ENSG00000100577.19,GSTZ1,2954,1.70162834244081e-11,0.358331292867661,-251
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320745_C_T_b38,rs2270421,ENSG00000100577.19,GSTZ1,2954,1.70162834244081e-11,0.358331292867661,-251
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320745_C_T_b38,rs2270421,ENSG00000100577.19,GSTZ1,2954,1.70162834244081e-11,0.358331292867661,-251
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77320745_C_T_b38,rs2270421,ENSG00000100577.19,GSTZ1,2954,1.70162834244081e-11,0.358331292867661,-251
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322254_A_G_b38,rs2111699,ENSG00000100577.19,GSTZ1,2954,3.71106127704751e-08,0.297424584627152,1258
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322254_A_G_b38,rs2111699,ENSG00000100577.19,GSTZ1,2954,3.71106127704751e-08,0.297424584627152,1258
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322254_A_G_b38,rs2111699,ENSG00000100577.19,GSTZ1,2954,3.71106127704751e-08,0.297424584627152,1258
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322254_A_G_b38,rs2111699,ENSG00000100577.19,GSTZ1,2954,3.71106127704751e-08,0.297424584627152,1258
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322254_A_G_b38,rs2111699,ENSG00000100577.19,GSTZ1,2954,3.71106127704751e-08,0.297424584627152,1258
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322565_G_A_b38,rs2363643,ENSG00000100577.19,GSTZ1,2954,2.57126681696139e-08,0.306006044149399,1569
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322565_G_A_b38,rs2363643,ENSG00000100577.19,GSTZ1,2954,2.57126681696139e-08,0.306006044149399,1569
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322565_G_A_b38,rs2363643,ENSG00000100577.19,GSTZ1,2954,2.57126681696139e-08,0.306006044149399,1569
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322565_G_A_b38,rs2363643,ENSG00000100577.19,GSTZ1,2954,2.57126681696139e-08,0.306006044149399,1569
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77322565_G_A_b38,rs2363643,ENSG00000100577.19,GSTZ1,2954,2.57126681696139e-08,0.306006044149399,1569
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324073_G_A_b38,rs4147578,ENSG00000100577.19,GSTZ1,2954,7.93134865607127e-11,0.342577934265137,3077
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324073_G_A_b38,rs4147578,ENSG00000100577.19,GSTZ1,2954,7.93134865607127e-11,0.342577934265137,3077
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324073_G_A_b38,rs4147578,ENSG00000100577.19,GSTZ1,2954,7.93134865607127e-11,0.342577934265137,3077
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324073_G_A_b38,rs4147578,ENSG00000100577.19,GSTZ1,2954,7.93134865607127e-11,0.342577934265137,3077
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324073_G_A_b38,rs4147578,ENSG00000100577.19,GSTZ1,2954,7.93134865607127e-11,0.342577934265137,3077
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324079_G_A_b38,rs4147579,ENSG00000100577.19,GSTZ1,2954,3.55527017144879e-08,0.298207849264145,3083
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324079_G_A_b38,rs4147579,ENSG00000100577.19,GSTZ1,2954,3.55527017144879e-08,0.298207849264145,3083
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324079_G_A_b38,rs4147579,ENSG00000100577.19,GSTZ1,2954,3.55527017144879e-08,0.298207849264145,3083
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324079_G_A_b38,rs4147579,ENSG00000100577.19,GSTZ1,2954,3.55527017144879e-08,0.298207849264145,3083
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324079_G_A_b38,rs4147579,ENSG00000100577.19,GSTZ1,2954,3.55527017144879e-08,0.298207849264145,3083
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324529_T_A_b38,rs8016187,ENSG00000100577.19,GSTZ1,2954,1.74379417740418e-09,0.333380550146103,3533
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324529_T_A_b38,rs8016187,ENSG00000100577.19,GSTZ1,2954,1.74379417740418e-09,0.333380550146103,3533
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324529_T_A_b38,rs8016187,ENSG00000100577.19,GSTZ1,2954,1.74379417740418e-09,0.333380550146103,3533
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324529_T_A_b38,rs8016187,ENSG00000100577.19,GSTZ1,2954,1.74379417740418e-09,0.333380550146103,3533
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77324529_T_A_b38,rs8016187,ENSG00000100577.19,GSTZ1,2954,1.74379417740418e-09,0.333380550146103,3533
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77325176_A_G_b38,rs2287395,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,4180
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77325176_A_G_b38,rs2287395,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,4180
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77325176_A_G_b38,rs2287395,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,4180
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77325176_A_G_b38,rs2287395,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,4180
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77325176_A_G_b38,rs2287395,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,4180
+chr14,hsa00350,Tyrosine metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77329295_G_A_b38,rs2270423,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,8299
+chr14,hsa00480,Glutathione metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_77329295_G_A_b38,rs2270423,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,8299
+chr14,hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77329295_G_A_b38,rs2270423,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,8299
+chr14,hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),Brain_Substantia_nigra,chr14_77329295_G_A_b38,rs2270423,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,8299
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_77329295_G_A_b38,rs2270423,ENSG00000100577.19,GSTZ1,2954,1.07282429401635e-08,0.315714657306671,8299
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23933516_A_C_b38,rs8011460,ENSG00000187630.18,DHRS4L2,317749,7.94664725320302e-09,-0.669828593730927,-36358
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23933516_A_C_b38,rs8011460,ENSG00000187630.18,DHRS4L2,317749,7.94664725320302e-09,-0.669828593730927,-36358
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23934010_C_A_b38,rs73598764,ENSG00000187630.18,DHRS4L2,317749,2.01795617750523e-10,-0.728616833686829,-35864
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23934010_C_A_b38,rs73598764,ENSG00000187630.18,DHRS4L2,317749,2.01795617750523e-10,-0.728616833686829,-35864
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23935842_G_A_b38,rs1885809,ENSG00000187630.18,DHRS4L2,317749,2.6502065268555e-08,-0.970536112785339,-34032
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23935842_G_A_b38,rs1885809,ENSG00000187630.18,DHRS4L2,317749,2.6502065268555e-08,-0.970536112785339,-34032
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23936426_G_A_b38,rs76958034,ENSG00000187630.18,DHRS4L2,317749,2.6502128949074e-08,-0.970536053180695,-33448
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23936426_G_A_b38,rs76958034,ENSG00000187630.18,DHRS4L2,317749,2.6502128949074e-08,-0.970536053180695,-33448
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23936577_CA_C_b38,rs58110506,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-33297
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23936577_CA_C_b38,rs58110506,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-33297
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23937709_T_C_b38,rs8022613,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-32165
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23937709_T_C_b38,rs8022613,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-32165
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23937796_C_G_b38,rs116404888,ENSG00000187630.18,DHRS4L2,317749,1.89050889340791e-08,-2.0550971031189,-32078
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23937796_C_G_b38,rs116404888,ENSG00000187630.18,DHRS4L2,317749,1.89050889340791e-08,-2.0550971031189,-32078
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23937930_AG_A_b38,rs11350813,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-31944
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23937930_AG_A_b38,rs11350813,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-31944
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23938445_A_G_b38,rs56861678,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-31429
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23938445_A_G_b38,rs56861678,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-31429
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23938904_C_CAA_b38,rs10701524,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-30970
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23938904_C_CAA_b38,rs10701524,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-30970
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939189_T_TC_b38,rs59297309,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-30685
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939189_T_TC_b38,rs59297309,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-30685
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939190_T_A_b38,rs1047684,ENSG00000187630.18,DHRS4L2,317749,6.53221713033672e-17,-1.06222558021545,-30684
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939190_T_A_b38,rs1047684,ENSG00000187630.18,DHRS4L2,317749,6.53221713033672e-17,-1.06222558021545,-30684
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939293_A_C_b38,rs57378450,ENSG00000187630.18,DHRS4L2,317749,1.64228648431189e-16,-1.04295098781586,-30581
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939293_A_C_b38,rs57378450,ENSG00000187630.18,DHRS4L2,317749,1.64228648431189e-16,-1.04295098781586,-30581
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939470_G_A_b38,rs77147457,ENSG00000187630.18,DHRS4L2,317749,2.6502128949074e-08,-0.970536053180695,-30404
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939470_G_A_b38,rs77147457,ENSG00000187630.18,DHRS4L2,317749,2.6502128949074e-08,-0.970536053180695,-30404
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939657_G_A_b38,rs1885810,ENSG00000187630.18,DHRS4L2,317749,7.7999366672086e-15,-1.05130505561829,-30217
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939657_G_A_b38,rs1885810,ENSG00000187630.18,DHRS4L2,317749,7.7999366672086e-15,-1.05130505561829,-30217
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939745_A_G_b38,rs1885811,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-30129
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23939745_A_G_b38,rs1885811,ENSG00000187630.18,DHRS4L2,317749,3.75324811971513e-13,-0.775202035903931,-30129
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940478_T_G_b38,rs112851730,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29396
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940478_T_G_b38,rs112851730,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29396
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940520_C_T_b38,rs113459990,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29354
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940520_C_T_b38,rs113459990,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29354
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940590_A_G_b38,rs113551151,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29284
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940590_A_G_b38,rs113551151,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29284
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940821_G_T_b38,rs8003491,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29053
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940821_G_T_b38,rs8003491,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-29053
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940883_G_A_b38,rs8003627,ENSG00000187630.18,DHRS4L2,317749,7.79987622089674e-15,-1.05130517482758,-28991
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23940883_G_A_b38,rs8003627,ENSG00000187630.18,DHRS4L2,317749,7.79987622089674e-15,-1.05130517482758,-28991
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941053_C_G_b38,rs58941536,ENSG00000187630.18,DHRS4L2,317749,7.7999366672086e-15,-1.05130505561829,-28821
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941053_C_G_b38,rs58941536,ENSG00000187630.18,DHRS4L2,317749,7.7999366672086e-15,-1.05130505561829,-28821
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941208_A_G_b38,rs57901513,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28666
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941208_A_G_b38,rs57901513,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28666
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941334_G_A_b38,rs8004361,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28540
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941334_G_A_b38,rs8004361,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28540
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941591_G_C_b38,rs8004860,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28283
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941591_G_C_b38,rs8004860,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28283
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941826_G_A_b38,rs8009382,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28048
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941826_G_A_b38,rs8009382,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28048
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941857_A_G_b38,rs8011236,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28017
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23941857_A_G_b38,rs8011236,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-28017
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942417_A_G_b38,rs73598777,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27457
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942417_A_G_b38,rs73598777,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27457
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942505_G_A_b38,rs73598781,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27369
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942505_G_A_b38,rs73598781,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27369
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942642_A_G_b38,rs57461315,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27232
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942642_A_G_b38,rs57461315,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27232
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942659_C_T_b38,rs7149475,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27215
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942659_C_T_b38,rs7149475,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27215
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942674_A_G_b38,rs58920623,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27200
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942674_A_G_b38,rs58920623,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27200
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942753_C_T_b38,rs7153995,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27121
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23942753_C_T_b38,rs7153995,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-27121
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943008_C_A_b38,rs57978986,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26866
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943008_C_A_b38,rs57978986,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26866
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943070_A_G_b38,rs59484581,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26804
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943070_A_G_b38,rs59484581,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26804
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943083_G_A_b38,rs60939040,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26791
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943083_G_A_b38,rs60939040,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26791
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943174_C_A_b38,rs58909995,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26700
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943174_C_A_b38,rs58909995,ENSG00000187630.18,DHRS4L2,317749,1.77206804458127e-17,-1.09844648838043,-26700
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943380_A_G_b38,rs112845645,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26494
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943380_A_G_b38,rs112845645,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26494
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943563_T_G_b38,rs11852080,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26311
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943563_T_G_b38,rs11852080,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26311
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943638_T_C_b38,rs11852089,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26236
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943638_T_C_b38,rs11852089,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26236
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943707_C_T_b38,rs11847840,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26167
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23943707_C_T_b38,rs11847840,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-26167
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944098_G_A_b38,rs28828113,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25776
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944098_G_A_b38,rs28828113,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25776
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944210_G_A_b38,rs58469981,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25664
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944210_G_A_b38,rs58469981,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25664
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944528_G_A_b38,rs60887662,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25346
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944528_G_A_b38,rs60887662,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25346
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944564_T_C_b38,rs60901156,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25310
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944564_T_C_b38,rs60901156,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25310
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944645_T_C_b38,rs61368402,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25229
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23944645_T_C_b38,rs61368402,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-25229
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945415_C_T_b38,rs59324945,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24459
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945415_C_T_b38,rs59324945,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24459
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945416_A_G_b38,rs58786866,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24458
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945416_A_G_b38,rs58786866,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24458
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945445_T_C_b38,rs55897938,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24429
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945445_T_C_b38,rs55897938,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24429
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945477_G_A_b38,rs139983293,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24397
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945477_G_A_b38,rs139983293,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24397
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945503_G_T_b38,rs111571149,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24371
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945503_G_T_b38,rs111571149,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24371
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945510_A_G_b38,rs111652247,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24364
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945510_A_G_b38,rs111652247,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24364
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945586_A_G_b38,rs112608884,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24288
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945586_A_G_b38,rs112608884,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24288
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945589_T_C_b38,rs112256515,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24285
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945589_T_C_b38,rs112256515,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24285
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945602_T_C_b38,rs112782991,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-24272
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945602_T_C_b38,rs112782991,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-24272
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945702_T_C_b38,rs146235009,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-24172
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945702_T_C_b38,rs146235009,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-24172
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945800_G_A_b38,rs9671870,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24074
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945800_G_A_b38,rs9671870,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24074
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945849_CAA_C_b38,rs150174008,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24025
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945849_CAA_C_b38,rs150174008,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-24025
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945954_T_C_b38,rs77266968,ENSG00000187630.18,DHRS4L2,317749,1.62443124272589e-09,-1.16001844406128,-23920
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23945954_T_C_b38,rs77266968,ENSG00000187630.18,DHRS4L2,317749,1.62443124272589e-09,-1.16001844406128,-23920
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946021_A_G_b38,rs9671445,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23853
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946021_A_G_b38,rs9671445,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23853
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946108_G_T_b38,rs9671883,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23766
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946108_G_T_b38,rs9671883,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23766
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946369_A_G_b38,rs9671467,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23505
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946369_A_G_b38,rs9671467,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23505
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946380_T_G_b38,rs9671588,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23494
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946380_T_G_b38,rs9671588,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23494
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946510_A_G_b38,rs146909516,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23364
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946510_A_G_b38,rs146909516,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23364
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946524_G_A_b38,rs28856896,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23350
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946524_G_A_b38,rs28856896,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-23350
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946919_T_C_b38,rs7140888,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22955
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23946919_T_C_b38,rs7140888,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22955
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947113_T_C_b38,rs7141234,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22761
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947113_T_C_b38,rs7141234,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22761
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947124_A_T_b38,rs7158222,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22750
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947124_A_T_b38,rs7158222,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22750
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947258_T_C_b38,rs7141463,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22616
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947258_T_C_b38,rs7141463,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22616
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947319_G_A_b38,rs7156624,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22555
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947319_G_A_b38,rs7156624,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22555
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947348_T_C_b38,rs7141633,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22526
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947348_T_C_b38,rs7141633,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22526
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947448_T_C_b38,rs7141804,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22426
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947448_T_C_b38,rs7141804,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-22426
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947944_G_A_b38,rs76596542,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21930
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23947944_G_A_b38,rs76596542,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21930
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948012_C_T_b38,rs9805886,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21862
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948012_C_T_b38,rs9805886,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21862
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948190_C_G_b38,rs9805889,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21684
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948190_C_G_b38,rs9805889,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21684
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948337_A_G_b38,rs9806029,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21537
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948337_A_G_b38,rs9806029,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21537
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948587_A_C_b38,rs10142568,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21287
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948587_A_C_b38,rs10142568,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21287
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948735_G_T_b38,rs28836502,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21139
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948735_G_T_b38,rs28836502,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21139
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948773_A_G_b38,rs28881586,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21101
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23948773_A_G_b38,rs28881586,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-21101
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949138_C_T_b38,rs9805913,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20736
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949138_C_T_b38,rs9805913,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20736
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949319_G_A_b38,rs9323424,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20555
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949319_G_A_b38,rs9323424,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20555
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949338_T_C_b38,rs9323425,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20536
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949338_T_C_b38,rs9323425,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20536
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949446_G_C_b38,rs9323426,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20428
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949446_G_C_b38,rs9323426,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20428
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949517_A_G_b38,rs1957678,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20357
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949517_A_G_b38,rs1957678,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20357
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949543_T_A_b38,rs9323428,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20331
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949543_T_A_b38,rs9323428,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20331
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949562_A_G_b38,rs9323429,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20312
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949562_A_G_b38,rs9323429,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-20312
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949993_G_A_b38,rs7152712,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19881
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23949993_G_A_b38,rs7152712,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19881
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950062_T_C_b38,rs10150939,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19812
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950062_T_C_b38,rs10150939,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19812
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950065_G_A_b38,rs7152902,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19809
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950065_G_A_b38,rs7152902,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19809
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950213_A_G_b38,rs6573469,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19661
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950213_A_G_b38,rs6573469,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19661
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950303_G_A_b38,rs6573470,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19571
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950303_G_A_b38,rs6573470,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19571
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950407_T_C_b38,rs6573471,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19467
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950407_T_C_b38,rs6573471,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19467
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950441_T_TA_b38,rs61272519,ENSG00000187630.18,DHRS4L2,317749,5.63696530555771e-20,-1.16962766647339,-19433
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950441_T_TA_b38,rs61272519,ENSG00000187630.18,DHRS4L2,317749,5.63696530555771e-20,-1.16962766647339,-19433
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950463_G_C_b38,rs6573472,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19411
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950463_G_C_b38,rs6573472,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19411
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950547_G_A_b38,rs6573473,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-19327
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950547_G_A_b38,rs6573473,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-19327
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950630_C_T_b38,rs6573474,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19244
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950630_C_T_b38,rs6573474,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19244
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950825_C_T_b38,rs10145440,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19049
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950825_C_T_b38,rs10145440,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-19049
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950908_ACT_A_b38,rs35470512,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18966
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950908_ACT_A_b38,rs35470512,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18966
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950995_T_C_b38,rs73600715,ENSG00000187630.18,DHRS4L2,317749,6.93698448026563e-14,-0.800821483135223,-18879
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23950995_T_C_b38,rs73600715,ENSG00000187630.18,DHRS4L2,317749,6.93698448026563e-14,-0.800821483135223,-18879
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951051_C_T_b38,rs114801506,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18823
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951051_C_T_b38,rs114801506,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18823
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951057_G_A_b38,rs116117004,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18817
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951057_G_A_b38,rs116117004,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18817
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951062_A_T_b38,rs115495758,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18812
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951062_A_T_b38,rs115495758,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18812
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951114_C_A_b38,rs74036725,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18760
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951114_C_A_b38,rs74036725,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18760
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951120_A_G_b38,rs73600716,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18754
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951120_A_G_b38,rs73600716,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18754
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951163_G_A_b38,rs73600717,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18711
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951163_G_A_b38,rs73600717,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-18711
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951218_T_C_b38,rs74036727,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18656
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951218_T_C_b38,rs74036727,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18656
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951388_A_T_b38,rs59434518,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18486
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951388_A_T_b38,rs59434518,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18486
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951433_C_G_b38,rs28693392,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18441
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951433_C_G_b38,rs28693392,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18441
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951747_G_A_b38,rs28670278,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18127
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951747_G_A_b38,rs28670278,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-18127
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951881_G_GA_b38,rs61710531,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-17993
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951881_G_GA_b38,rs61710531,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-17993
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951943_C_T_b38,rs10148822,ENSG00000187630.18,DHRS4L2,317749,9.71383078765193e-16,-1.06107127666473,-17931
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951943_C_T_b38,rs10148822,ENSG00000187630.18,DHRS4L2,317749,9.71383078765193e-16,-1.06107127666473,-17931
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951952_C_A_b38,rs10148823,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17922
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23951952_C_A_b38,rs10148823,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17922
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952172_C_G_b38,rs10149094,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17702
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952172_C_G_b38,rs10149094,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17702
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952263_A_G_b38,rs10137992,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17611
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952263_A_G_b38,rs10137992,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17611
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952632_T_G_b38,rs17099424,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17242
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952632_T_G_b38,rs17099424,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17242
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952665_C_T_b38,rs112725630,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17209
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23952665_C_T_b38,rs112725630,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-17209
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953016_A_G_b38,rs10140992,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16858
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953016_A_G_b38,rs10140992,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16858
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953022_C_A_b38,rs4048586,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16852
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953022_C_A_b38,rs4048586,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16852
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953157_A_G_b38,rs10141091,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16717
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953157_A_G_b38,rs10141091,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16717
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953168_GA_G_b38,rs72443690,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16706
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953168_GA_G_b38,rs72443690,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16706
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953376_G_C_b38,rs10151793,ENSG00000187630.18,DHRS4L2,317749,4.52292531926999e-20,-1.20342898368835,-16498
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953376_G_C_b38,rs10151793,ENSG00000187630.18,DHRS4L2,317749,4.52292531926999e-20,-1.20342898368835,-16498
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953524_A_G_b38,rs1951736,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16350
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953524_A_G_b38,rs1951736,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16350
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953569_C_CGCTTTGA_b38,rs3049857,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16305
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953569_C_CGCTTTGA_b38,rs3049857,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16305
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953586_A_G_b38,rs1951737,ENSG00000187630.18,DHRS4L2,317749,1.63203125484812e-17,-1.09386253356934,-16288
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953586_A_G_b38,rs1951737,ENSG00000187630.18,DHRS4L2,317749,1.63203125484812e-17,-1.09386253356934,-16288
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953706_T_G_b38,rs78299733,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16168
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953706_T_G_b38,rs78299733,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16168
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953727_C_G_b38,rs112883733,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16147
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953727_C_G_b38,rs112883733,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16147
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953737_A_ACT_b38,rs113357631,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16137
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953737_A_ACT_b38,rs113357631,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16137
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953786_T_G_b38,rs4457918,ENSG00000187630.18,DHRS4L2,317749,6.31833230265638e-18,-1.12995207309723,-16088
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953786_T_G_b38,rs4457918,ENSG00000187630.18,DHRS4L2,317749,6.31833230265638e-18,-1.12995207309723,-16088
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953798_G_A_b38,rs17099455,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16076
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953798_G_A_b38,rs17099455,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-16076
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953881_A_G_b38,rs2273944,ENSG00000187630.18,DHRS4L2,317749,7.58417205269919e-13,-0.803627848625183,-15993
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23953881_A_G_b38,rs2273944,ENSG00000187630.18,DHRS4L2,317749,7.58417205269919e-13,-0.803627848625183,-15993
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954120_G_C_b38,rs8007763,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-15754
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954120_G_C_b38,rs8007763,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-15754
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954161_C_T_b38,rs8009022,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-15713
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954161_C_T_b38,rs8009022,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-15713
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954373_A_G_b38,rs8010151,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-15501
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954373_A_G_b38,rs8010151,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-15501
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954457_C_T_b38,rs8009599,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-15417
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954457_C_T_b38,rs8009599,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-15417
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954709_C_T_b38,rs11158470,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-15165
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23954709_C_T_b38,rs11158470,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-15165
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23955158_G_A_b38,rs12147221,ENSG00000187630.18,DHRS4L2,317749,2.19726802637677e-18,-1.10528135299683,-14716
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23955158_G_A_b38,rs12147221,ENSG00000187630.18,DHRS4L2,317749,2.19726802637677e-18,-1.10528135299683,-14716
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23955849_G_T_b38,rs10137990,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-14025
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23955849_G_T_b38,rs10137990,ENSG00000187630.18,DHRS4L2,317749,9.12977059861599e-20,-1.1762421131134,-14025
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23955942_C_T_b38,rs111631601,ENSG00000187630.18,DHRS4L2,317749,2.6502128949074e-08,-0.970536053180695,-13932
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23955942_C_T_b38,rs111631601,ENSG00000187630.18,DHRS4L2,317749,2.6502128949074e-08,-0.970536053180695,-13932
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23956218_C_G_b38,rs2984817,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-13656
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23956218_C_G_b38,rs2984817,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-13656
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23956784_G_A_b38,rs112772981,ENSG00000187630.18,DHRS4L2,317749,1.63203125484812e-17,-1.09386253356934,-13090
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23956784_G_A_b38,rs112772981,ENSG00000187630.18,DHRS4L2,317749,1.63203125484812e-17,-1.09386253356934,-13090
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23957386_GGA_G_b38,rs145219936,ENSG00000187630.18,DHRS4L2,317749,3.71121051976905e-17,-1.09088230133057,-12488
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23957386_GGA_G_b38,rs145219936,ENSG00000187630.18,DHRS4L2,317749,3.71121051976905e-17,-1.09088230133057,-12488
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23957555_TC_T_b38,rs66683150,ENSG00000187630.18,DHRS4L2,317749,2.31623016736732e-10,-0.990384995937347,-12319
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23957555_TC_T_b38,rs66683150,ENSG00000187630.18,DHRS4L2,317749,2.31623016736732e-10,-0.990384995937347,-12319
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23957588_C_A_b38,rs13379296,ENSG00000187630.18,DHRS4L2,317749,1.63203125484812e-17,-1.09386253356934,-12286
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23957588_C_A_b38,rs13379296,ENSG00000187630.18,DHRS4L2,317749,1.63203125484812e-17,-1.09386253356934,-12286
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23958149_T_C_b38,rs73600730,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-11725
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23958149_T_C_b38,rs73600730,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-11725
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959176_C_T_b38,rs6573485,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-10698
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959176_C_T_b38,rs6573485,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-10698
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959300_G_A_b38,rs6573486,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-10574
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959300_G_A_b38,rs6573486,ENSG00000187630.18,DHRS4L2,317749,1.22389783033676e-16,-1.12142205238342,-10574
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959336_T_C_b38,rs6573487,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-10538
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959336_T_C_b38,rs6573487,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-10538
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959346_C_T_b38,rs6573488,ENSG00000187630.18,DHRS4L2,317749,3.71121051976905e-17,-1.09088230133057,-10528
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959346_C_T_b38,rs6573488,ENSG00000187630.18,DHRS4L2,317749,3.71121051976905e-17,-1.09088230133057,-10528
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959490_C_T_b38,rs60914253,ENSG00000187630.18,DHRS4L2,317749,8.76637879814617e-18,-1.17033815383911,-10384
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959490_C_T_b38,rs60914253,ENSG00000187630.18,DHRS4L2,317749,8.76637879814617e-18,-1.17033815383911,-10384
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959553_G_A_b38,rs7154783,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-10321
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959553_G_A_b38,rs7154783,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-10321
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959589_C_T_b38,rs7156226,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-10285
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23959589_C_T_b38,rs7156226,ENSG00000187630.18,DHRS4L2,317749,3.71124343894639e-17,-1.09088218212128,-10285
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23964085_G_A_b38,rs75779656,ENSG00000187630.18,DHRS4L2,317749,3.04500239342946e-12,-1.00972282886505,-5789
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23964085_G_A_b38,rs75779656,ENSG00000187630.18,DHRS4L2,317749,3.04500239342946e-12,-1.00972282886505,-5789
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23966463_A_C_b38,rs200547090,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,-3411
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23966463_A_C_b38,rs200547090,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,-3411
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23967302_T_C_b38,rs200393732,ENSG00000187630.18,DHRS4L2,317749,1.97533604228662e-11,-1.03955984115601,-2572
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23967302_T_C_b38,rs200393732,ENSG00000187630.18,DHRS4L2,317749,1.97533604228662e-11,-1.03955984115601,-2572
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23975840_G_A_b38,rs75282871,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,5966
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23975840_G_A_b38,rs75282871,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,5966
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23976959_TG_T_b38,rs113105656,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,7085
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23976959_TG_T_b38,rs113105656,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,7085
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23976965_G_T_b38,rs200374463,ENSG00000187630.18,DHRS4L2,317749,1.69488571775979e-10,-1.10823559761047,7091
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23976965_G_T_b38,rs200374463,ENSG00000187630.18,DHRS4L2,317749,1.69488571775979e-10,-1.10823559761047,7091
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23977127_G_T_b38,rs80309124,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,7253
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23977127_G_T_b38,rs80309124,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,7253
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23977784_C_T_b38,rs140204699,ENSG00000187630.18,DHRS4L2,317749,3.84960352024075e-10,-1.13386964797974,7910
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23977784_C_T_b38,rs140204699,ENSG00000187630.18,DHRS4L2,317749,3.84960352024075e-10,-1.13386964797974,7910
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23978154_C_A_b38,rs145163470,ENSG00000187630.18,DHRS4L2,317749,1.62443124272589e-09,-1.16001844406128,8280
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23978154_C_A_b38,rs145163470,ENSG00000187630.18,DHRS4L2,317749,1.62443124272589e-09,-1.16001844406128,8280
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23980789_T_C_b38,rs376754007,ENSG00000187630.18,DHRS4L2,317749,8.16345245117013e-10,-0.820624053478241,10915
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23980789_T_C_b38,rs376754007,ENSG00000187630.18,DHRS4L2,317749,8.16345245117013e-10,-0.820624053478241,10915
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23980794_A_G_b38,rs371009617,ENSG00000187630.18,DHRS4L2,317749,8.16345245117013e-10,-0.820624053478241,10920
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23980794_A_G_b38,rs371009617,ENSG00000187630.18,DHRS4L2,317749,8.16345245117013e-10,-0.820624053478241,10920
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_23986776_ACCCCCG_A_b38,rs141347994,ENSG00000187630.18,DHRS4L2,317749,2.51264533258885e-11,-0.966376781463623,16902
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_23986776_ACCCCCG_A_b38,rs141347994,ENSG00000187630.18,DHRS4L2,317749,2.51264533258885e-11,-0.966376781463623,16902
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24001022_T_G_b38,rs79847141,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,31148
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24001022_T_G_b38,rs79847141,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,31148
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24006109_C_A_b38,rs75949238,ENSG00000187630.18,DHRS4L2,317749,5.40379407641867e-17,-0.96889728307724,36235
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24006109_C_A_b38,rs75949238,ENSG00000187630.18,DHRS4L2,317749,5.40379407641867e-17,-0.96889728307724,36235
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24006832_GC_G_b38,rs200936205,ENSG00000187630.18,DHRS4L2,317749,1.58645137267982e-10,-0.856389760971069,36958
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24006832_GC_G_b38,rs200936205,ENSG00000187630.18,DHRS4L2,317749,1.58645137267982e-10,-0.856389760971069,36958
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24008733_A_G_b38,rs146691898,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,38859
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24008733_A_G_b38,rs146691898,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,38859
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24009590_A_T_b38,rs147027077,ENSG00000187630.18,DHRS4L2,317749,1.43274677693653e-11,-0.960456728935242,39716
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24009590_A_T_b38,rs147027077,ENSG00000187630.18,DHRS4L2,317749,1.43274677693653e-11,-0.960456728935242,39716
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24012243_G_C_b38,rs77135979,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,42369
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24012243_G_C_b38,rs77135979,ENSG00000187630.18,DHRS4L2,317749,1.69489061174425e-10,-1.10823559761047,42369
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24012784_C_T_b38,rs79755169,ENSG00000187630.18,DHRS4L2,317749,1.69488571775979e-10,-1.10823559761047,42910
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24012784_C_T_b38,rs79755169,ENSG00000187630.18,DHRS4L2,317749,1.69488571775979e-10,-1.10823559761047,42910
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24014451_T_C_b38,rs77804326,ENSG00000187630.18,DHRS4L2,317749,1.69488571775979e-10,-1.10823559761047,44577
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24014451_T_C_b38,rs77804326,ENSG00000187630.18,DHRS4L2,317749,1.69488571775979e-10,-1.10823559761047,44577
+chr14,hsa00830,Retinol metabolism - Homo sapiens (human),Brain_Substantia_nigra,chr14_24034912_G_A_b38,rs140436982,ENSG00000187630.18,DHRS4L2,317749,1.17950613575863e-09,-1.36764764785767,65038
+chr14,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Substantia_nigra,chr14_24034912_G_A_b38,rs140436982,ENSG00000187630.18,DHRS4L2,317749,1.17950613575863e-09,-1.36764764785767,65038
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114038_A_G_b38,rs6575230,ENSG00000165934.13,CPSF2,53981,6.05353870180921e-12,-0.306211888790131,-7931
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114170_T_C_b38,rs7144603,ENSG00000165934.13,CPSF2,53981,1.92482004434492e-11,-0.303882867097855,-7799
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114181_G_A_b38,rs6575231,ENSG00000165934.13,CPSF2,53981,2.35697889033233e-11,-0.304514646530151,-7788
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114383_T_TA_b38,rs34486350,ENSG00000165934.13,CPSF2,53981,4.36435155415972e-08,-0.302824884653091,-7586
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114666_G_A_b38,rs11160041,ENSG00000165934.13,CPSF2,53981,1.92482004434492e-11,-0.303882867097855,-7303
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114776_GT_G_b38,rs35937758,ENSG00000165934.13,CPSF2,53981,4.92191114876416e-11,-0.297523111104965,-7193
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114932_A_G_b38,rs10873416,ENSG00000165934.13,CPSF2,53981,4.92191114876416e-11,-0.297523111104965,-7037
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92114938_C_A_b38,rs11160042,ENSG00000165934.13,CPSF2,53981,4.92191114876416e-11,-0.297523111104965,-7031
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92115235_A_G_b38,rs35791930,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-6734
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92115376_A_G_b38,rs67238019,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-6593
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92115411_AG_A_b38,rs76499436,ENSG00000165934.13,CPSF2,53981,1.48246484594023e-09,-0.305225968360901,-6558
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92115481_G_A_b38,rs34145809,ENSG00000165934.13,CPSF2,53981,5.53402282325242e-09,-0.31088662147522,-6488
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92115907_A_G_b38,rs2896197,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-6062
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92115947_C_T_b38,rs2896198,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-6022
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92116128_G_A_b38,rs13350,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-5841
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92116311_T_A_b38,rs11160044,ENSG00000165934.13,CPSF2,53981,5.53402282325242e-09,-0.31088662147522,-5658
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92116434_A_T_b38,rs7155991,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-5535
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92116657_C_T_b38,rs7160819,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-5312
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92117235_A_G_b38,rs3814833,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-4734
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92117437_A_G_b38,rs3814832,ENSG00000165934.13,CPSF2,53981,4.79006351980996e-08,-0.317605316638947,-4532
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92117677_C_CTTTT_b38,.,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-4292
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92117720_A_G_b38,rs12882784,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-4249
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92117871_G_A_b38,rs12883370,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-4098
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92118861_T_C_b38,rs7152991,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-3108
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92119243_C_T_b38,rs7152429,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-2726
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92119494_C_G_b38,rs7152807,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-2475
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92119720_T_C_b38,rs7158932,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-2249
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92119903_G_A_b38,rs7158184,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-2066
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120085_C_CT_b38,rs11395236,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-1884
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120217_A_C_b38,rs1950811,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-1752
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120223_C_T_b38,rs4548800,ENSG00000165934.13,CPSF2,53981,4.79006351980996e-08,-0.317605316638947,-1746
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120525_T_C_b38,rs1950813,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-1444
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120818_T_C_b38,rs61975459,ENSG00000165934.13,CPSF2,53981,2.6215893974011e-11,-0.290557265281677,-1151
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120933_G_T_b38,rs61976560,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-1036
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120957_C_T_b38,rs61976561,ENSG00000165934.13,CPSF2,53981,5.53402282325242e-09,-0.31088662147522,-1012
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92120986_C_A_b38,rs60324130,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-983
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92121194_A_G_b38,rs34949057,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-775
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92121244_G_A_b38,rs7143401,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-725
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92121460_A_C_b38,rs7143338,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-509
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92121658_T_G_b38,rs3818263,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-311
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92121848_T_C_b38,rs12886909,ENSG00000165934.13,CPSF2,53981,4.79006351980996e-08,-0.317605316638947,-121
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92121875_G_A_b38,rs7148709,ENSG00000165934.13,CPSF2,53981,2.14869173991776e-12,-0.308743178844452,-94
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92122573_T_A_b38,rs7151027,ENSG00000165934.13,CPSF2,53981,8.62835279945155e-13,-0.308673292398453,604
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92122763_T_C_b38,rs7155717,ENSG00000165934.13,CPSF2,53981,8.62823538838763e-13,-0.308673352003098,794
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92123776_C_T_b38,rs7149665,ENSG00000165934.13,CPSF2,53981,1.9086617056415e-09,-0.317218899726868,1807
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92124220_T_A_b38,rs7151932,ENSG00000165934.13,CPSF2,53981,8.62835279945155e-13,-0.308673292398453,2251
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92128541_T_C_b38,rs35038948,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,6572
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92131915_A_G_b38,rs35538169,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,9946
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92132291_G_T_b38,rs56014528,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,10322
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92134454_G_T_b38,rs2295726,ENSG00000165934.13,CPSF2,53981,6.45400390642715e-09,-0.311468034982681,12485
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92134862_C_G_b38,rs12879355,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,12893
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92135885_A_G_b38,rs2005091,ENSG00000165934.13,CPSF2,53981,6.45400390642715e-09,-0.311468034982681,13916
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92136543_T_C_b38,rs2402113,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,14574
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92139411_C_T_b38,rs12882863,ENSG00000165934.13,CPSF2,53981,8.49291906356354e-10,-0.317313998937607,17442
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92148397_G_A_b38,rs35024457,ENSG00000165934.13,CPSF2,53981,6.45400390642715e-09,-0.311468034982681,26428
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92149031_C_A_b38,rs12889045,ENSG00000165934.13,CPSF2,53981,6.45400390642715e-09,-0.311468034982681,27062
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92149397_C_CAT_b38,rs3031763,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,27428
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92149817_G_A_b38,rs34484283,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,27848
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92150179_C_T_b38,rs34854601,ENSG00000165934.13,CPSF2,53981,4.57212961065454e-10,-0.332037568092346,28210
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92151925_T_G_b38,rs34738682,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,29956
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92155811_T_A_b38,rs12879273,ENSG00000165934.13,CPSF2,53981,6.45400390642715e-09,-0.311468034982681,33842
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92155980_G_A_b38,rs12878662,ENSG00000165934.13,CPSF2,53981,6.45400390642715e-09,-0.311468034982681,34011
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92157005_A_G_b38,rs36036195,ENSG00000165934.13,CPSF2,53981,1.9086617056415e-09,-0.317218899726868,35036
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92159559_A_G_b38,rs12896393,ENSG00000165934.13,CPSF2,53981,6.45400390642715e-09,-0.311468034982681,37590
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92160250_A_C_b38,rs12881407,ENSG00000165934.13,CPSF2,53981,1.9086617056415e-09,-0.317218899726868,38281
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92161366_T_C_b38,rs2025070,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,39397
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92163373_A_AACAC_b38,rs1555416096,ENSG00000165934.13,CPSF2,53981,6.29808749246847e-09,-0.332619547843933,41404
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92163635_C_T_b38,rs12590449,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,41666
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92168078_C_T_b38,rs61438298,ENSG00000165934.13,CPSF2,53981,1.90865663820519e-09,-0.31721892952919,46109
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92169099_AAAG_A_b38,rs74264090,ENSG00000165934.13,CPSF2,53981,1.50183720586132e-09,-0.34443199634552,47130
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92170077_G_A_b38,rs57520213,ENSG00000165934.13,CPSF2,53981,1.39617317191361e-08,-0.331351459026337,48108
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92170332_T_G_b38,rs35469014,ENSG00000165934.13,CPSF2,53981,4.86467418870735e-10,-0.327095925807953,48363
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92170899_C_T_b38,rs61976605,ENSG00000165934.13,CPSF2,53981,4.86467418870735e-10,-0.327095925807953,48930
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92173546_A_G_b38,rs73332018,ENSG00000165934.13,CPSF2,53981,4.92335527537195e-09,-0.34206160902977,51577
+chr14,hsa03015,mRNA surveillance pathway - Homo sapiens (human),Brain_Substantia_nigra,chr14_92173712_A_AATT_b38,rs35956669,ENSG00000165934.13,CPSF2,53981,4.92335527537195e-09,-0.34206160902977,51743
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49541770_TG_T_b38,rs34350464,ENSG00000165502.7,RPL36AL,6166,2.13005036587535e-08,-0.329219579696655,-78856
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49545607_C_T_b38,rs4900925,ENSG00000165502.7,RPL36AL,6166,6.86514130795992e-16,0.418761849403381,-75019
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49547104_T_C_b38,rs2883436,ENSG00000165502.7,RPL36AL,6166,2.00045096225976e-17,0.444778650999069,-73522
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49549983_G_C_b38,rs12897941,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-70643
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49551500_T_C_b38,rs7152110,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-69126
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49552023_G_T_b38,rs4900927,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-68603
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49552673_A_C_b38,rs4476096,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-67953
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49552699_G_C_b38,rs2354439,ENSG00000165502.7,RPL36AL,6166,8.892973274173e-17,0.441262245178223,-67927
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49553514_A_C_b38,rs10147029,ENSG00000165502.7,RPL36AL,6166,2.00045096225976e-17,0.444778650999069,-67112
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49553792_G_A_b38,rs8015368,ENSG00000165502.7,RPL36AL,6166,2.01630437450005e-16,0.4330735206604,-66834
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49554099_A_G_b38,rs4900928,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-66527
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49554357_T_C_b38,rs6572585,ENSG00000165502.7,RPL36AL,6166,8.892973274173e-17,0.441262245178223,-66269
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49554783_G_C_b38,rs7159307,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-65843
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49555223_A_C_b38,rs6572586,ENSG00000165502.7,RPL36AL,6166,2.00045096225976e-17,0.444778650999069,-65403
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49555530_G_A_b38,rs8005990,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-65096
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49555882_C_T_b38,rs4900929,ENSG00000165502.7,RPL36AL,6166,1.08437576441744e-16,0.435553044080734,-64744
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49555908_A_G_b38,rs4900930,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-64718
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49556075_A_T_b38,rs4900931,ENSG00000165502.7,RPL36AL,6166,8.892973274173e-17,0.441262245178223,-64551
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49556210_A_G_b38,rs4900932,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-64416
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49556488_C_A_b38,rs4900934,ENSG00000165502.7,RPL36AL,6166,8.89289605455306e-17,0.441262274980545,-64138
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49557626_C_T_b38,rs6572589,ENSG00000165502.7,RPL36AL,6166,7.59293493028909e-16,0.430502831935883,-63000
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49564948_A_G_b38,rs2883437,ENSG00000165502.7,RPL36AL,6166,1.36989963218852e-17,0.460061579942703,-55678
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49576802_A_T_b38,rs4581611,ENSG00000165502.7,RPL36AL,6166,1.36989963218852e-17,0.460061579942703,-43824
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49577674_T_C_b38,rs2883438,ENSG00000165502.7,RPL36AL,6166,5.15837684900167e-17,0.448805510997772,-42952
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49581708_T_C_b38,rs11157693,ENSG00000165502.7,RPL36AL,6166,1.36989963218852e-17,0.460061579942703,-38918
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49583037_G_C_b38,rs12894785,ENSG00000165502.7,RPL36AL,6166,5.15837684900167e-17,0.448805510997772,-37589
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49584702_T_TAC_b38,rs35123235,ENSG00000165502.7,RPL36AL,6166,1.36989963218852e-17,0.460061579942703,-35924
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49584847_A_G_b38,rs10150624,ENSG00000165502.7,RPL36AL,6166,1.36989963218852e-17,0.460061579942703,-35779
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49584929_T_TCA_b38,.,ENSG00000165502.7,RPL36AL,6166,1.77356250281621e-15,0.437891095876694,-35697
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49585033_C_T_b38,rs10150823,ENSG00000165502.7,RPL36AL,6166,1.36989963218852e-17,0.460061579942703,-35593
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49591915_C_T_b38,rs7158577,ENSG00000165502.7,RPL36AL,6166,8.76766681989339e-18,0.45687660574913,-28711
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49596614_A_G_b38,rs1957979,ENSG00000165502.7,RPL36AL,6166,2.21958643415986e-17,0.44800329208374,-24012
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49597310_A_G_b38,rs7161649,ENSG00000165502.7,RPL36AL,6166,2.21958643415986e-17,0.44800329208374,-23316
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49598641_C_G_b38,rs2281837,ENSG00000165502.7,RPL36AL,6166,2.45964164376841e-17,0.450024843215942,-21985
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49598999_G_C_b38,rs2281836,ENSG00000165502.7,RPL36AL,6166,4.95718249976172e-17,0.444486558437347,-21627
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49601960_G_C_b38,rs6572590,ENSG00000165502.7,RPL36AL,6166,2.50608217153059e-19,0.493720442056656,-18666
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49603226_T_TG_b38,rs55969936,ENSG00000165502.7,RPL36AL,6166,1.98433073068719e-18,0.476170301437378,-17400
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49604976_C_G_b38,rs8014170,ENSG00000165502.7,RPL36AL,6166,7.89436219797728e-20,0.502330362796783,-15650
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49608592_A_C_b38,rs4900940,ENSG00000165502.7,RPL36AL,6166,2.50613214895131e-19,0.493720352649689,-12034
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49610289_AGGCTGGAGTGCAGTGCGCAAGC_A_b38,rs72380805,ENSG00000165502.7,RPL36AL,6166,2.50613214895131e-19,0.493720352649689,-10337
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49610410_C_T_b38,rs4900941,ENSG00000165502.7,RPL36AL,6166,2.50608217153059e-19,0.493720442056656,-10216
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49614153_G_A_b38,rs6572592,ENSG00000165502.7,RPL36AL,6166,7.89428140820462e-20,0.502330362796783,-6473
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49615085_T_C_b38,rs7143010,ENSG00000165502.7,RPL36AL,6166,3.05812463483101e-12,0.432172328233719,-5541
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49615758_A_AT_b38,rs34707018,ENSG00000165502.7,RPL36AL,6166,7.89436219797728e-20,0.502330362796783,-4868
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49616035_T_C_b38,rs12886130,ENSG00000165502.7,RPL36AL,6166,7.89436219797728e-20,0.502330362796783,-4591
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49616577_A_G_b38,rs11623263,ENSG00000165502.7,RPL36AL,6166,7.89428140820462e-20,0.502330362796783,-4049
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49619845_C_T_b38,rs3007030,ENSG00000165502.7,RPL36AL,6166,7.89436219797728e-20,0.502330362796783,-781
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49620639_C_G_b38,rs1952013,ENSG00000165502.7,RPL36AL,6166,5.47480039417607e-20,0.517687082290649,13
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49623885_A_G_b38,rs1957977,ENSG00000165502.7,RPL36AL,6166,1.38589950568915e-20,0.528099596500397,3259
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49624966_G_A_b38,rs2147712,ENSG00000165502.7,RPL36AL,6166,1.38589950568915e-20,0.528099596500397,4340
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49625214_T_A_b38,rs12160,ENSG00000165502.7,RPL36AL,6166,1.38589950568915e-20,0.528099596500397,4588
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49626184_T_C_b38,rs2985697,ENSG00000165502.7,RPL36AL,6166,1.38589950568915e-20,0.528099596500397,5558
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49627712_A_G_b38,rs3007041,ENSG00000165502.7,RPL36AL,6166,7.36734626813231e-20,0.508073031902313,7086
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49628195_C_A_b38,rs2985696,ENSG00000165502.7,RPL36AL,6166,7.36734626813231e-20,0.508073031902313,7569
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49628617_A_G_b38,rs3007042,ENSG00000165502.7,RPL36AL,6166,7.36734626813231e-20,0.508073031902313,7991
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49629842_C_T_b38,rs2224949,ENSG00000165502.7,RPL36AL,6166,1.03808410813377e-14,0.421632498502731,9216
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49630141_T_G_b38,rs2209417,ENSG00000165502.7,RPL36AL,6166,1.03807612405625e-14,0.421632528305054,9515
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49630454_T_C_b38,rs17121651,ENSG00000165502.7,RPL36AL,6166,1.03807612405625e-14,0.421632528305054,9828
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49630508_T_C_b38,rs57119148,ENSG00000165502.7,RPL36AL,6166,2.9811327906441e-15,0.429766446352005,9882
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49631144_C_T_b38,rs7142457,ENSG00000165502.7,RPL36AL,6166,1.03807612405625e-14,0.421632528305054,10518
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49631313_C_A_b38,rs2985689,ENSG00000165502.7,RPL36AL,6166,9.40028581897638e-10,0.371567636728287,10687
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49631578_G_A_b38,rs2354448,ENSG00000165502.7,RPL36AL,6166,1.03808410813377e-14,0.421632498502731,10952
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49632178_T_A_b38,rs1952012,ENSG00000165502.7,RPL36AL,6166,1.03807612405625e-14,0.421632528305054,11552
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49632699_GC_G_b38,.,ENSG00000165502.7,RPL36AL,6166,1.03808410813377e-14,0.421632498502731,12073
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49633668_T_C_b38,rs2985687,ENSG00000165502.7,RPL36AL,6166,1.03807612405625e-14,0.421632528305054,13042
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49633965_C_G_b38,rs2985686,ENSG00000165502.7,RPL36AL,6166,1.60981027833367e-19,0.501262843608856,13339
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49634652_G_A_b38,rs2985685,ENSG00000165502.7,RPL36AL,6166,1.03808410813377e-14,0.421632498502731,14026
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49634964_C_G_b38,rs2985684,ENSG00000165502.7,RPL36AL,6166,1.03807612405625e-14,0.421632528305054,14338
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49635551_G_C_b38,rs3007031,ENSG00000165502.7,RPL36AL,6166,4.13398297183705e-15,0.436580866575241,14925
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49635809_A_G_b38,rs55782144,ENSG00000165502.7,RPL36AL,6166,9.44378597500925e-15,0.429154932498932,15183
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49635877_T_C_b38,rs12879185,ENSG00000165502.7,RPL36AL,6166,4.13398297183705e-15,0.436580866575241,15251
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49635955_T_C_b38,rs12879350,ENSG00000165502.7,RPL36AL,6166,4.13398297183705e-15,0.436580866575241,15329
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49637098_T_C_b38,rs3007033,ENSG00000165502.7,RPL36AL,6166,9.14230540103125e-15,0.429246842861176,16472
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49639028_C_G_b38,rs11157696,ENSG00000165502.7,RPL36AL,6166,1.96508290857117e-18,0.494226098060608,18402
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49639131_T_C_b38,rs56098064,ENSG00000165502.7,RPL36AL,6166,1.47562703937556e-14,0.435121029615402,18505
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49645349_C_T_b38,rs7146248,ENSG00000165502.7,RPL36AL,6166,2.9305786916478e-17,0.477125704288483,24723
+chr14,hsa03010,Ribosome - Homo sapiens (human),Brain_Substantia_nigra,chr14_49662797_A_C_b38,rs6572597,ENSG00000165502.7,RPL36AL,6166,7.98426046834623e-11,0.375340312719345,42171
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73505585_A_G_b38,rs8014023,ENSG00000184227.8,ACOT1,641371,2.94722065402014e-08,-0.520006477832794,-31558
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73505831_T_C_b38,rs2041073,ENSG00000184227.8,ACOT1,641371,2.94722065402014e-08,-0.520006477832794,-31312
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73526314_A_G_b38,rs35417585,ENSG00000184227.8,ACOT1,641371,7.87639624274739e-13,0.811599552631378,-10829
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73528024_C_A_b38,rs36059280,ENSG00000184227.8,ACOT1,641371,7.87639624274739e-13,0.811599552631378,-9119
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73528031_C_T_b38,rs35067250,ENSG00000184227.8,ACOT1,641371,1.23406376283123e-08,0.570570707321167,-9112
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73559596_C_G_b38,rs71429006,ENSG00000184227.8,ACOT1,641371,3.01061172223531e-10,0.690684676170349,22453
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73561413_T_G_b38,rs7151745,ENSG00000184227.8,ACOT1,641371,3.01061172223531e-10,0.690684676170349,24270
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73563323_A_G_b38,rs4417498,ENSG00000184227.8,ACOT1,641371,2.25330229839257e-10,0.640415966510773,26180
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73564788_C_A_b38,rs9788526,ENSG00000184227.8,ACOT1,641371,6.18450237144232e-09,0.635842800140381,27645
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73567486_T_G_b38,rs8018231,ENSG00000184227.8,ACOT1,641371,3.271282072003e-12,0.630508482456207,30343
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73568967_A_G_b38,rs11545737,ENSG00000184227.8,ACOT1,641371,5.89988766100218e-09,0.632103621959686,31824
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73569970_G_GC_b38,.,ENSG00000184227.8,ACOT1,641371,3.08287685056373e-12,0.661053895950317,32827
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73571026_C_T_b38,rs71429008,ENSG00000184227.8,ACOT1,641371,5.89988766100218e-09,0.632103621959686,33883
+chr14,hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),Brain_Substantia_nigra,chr14_73571367_G_A_b38,rs12433922,ENSG00000184227.8,ACOT1,641371,2.7898650962569e-13,0.677185118198395,34224
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_74976400_G_A_b38,rs2012627,ENSG00000119718.11,EIF2B2,8892,6.14318959330717e-09,0.324677348136902,-26521
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_74980075_C_T_b38,rs12882664,ENSG00000119718.11,EIF2B2,8892,1.28464075870857e-08,0.314630299806595,-22846
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_74980176_C_G_b38,rs10131894,ENSG00000119718.11,EIF2B2,8892,3.61585376622329e-08,0.294636487960815,-22745
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_74989746_A_C_b38,rs8013780,ENSG00000119718.11,EIF2B2,8892,1.66490297612534e-08,0.309204787015915,-13175
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_74990535_A_G_b38,rs7157158,ENSG00000119718.11,EIF2B2,8892,1.92202338194521e-08,0.310319721698761,-12386
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_74993858_A_G_b38,rs12588981,ENSG00000119718.11,EIF2B2,8892,1.66489890137931e-08,0.309204816818237,-9063
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_74994038_G_T_b38,rs12882111,ENSG00000119718.11,EIF2B2,8892,1.66490297612534e-08,0.309204787015915,-8883
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75004474_TGAGACCAG_T_b38,rs33926975,ENSG00000119718.11,EIF2B2,8892,4.07043125653896e-08,0.300331503152847,1553
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75005099_C_T_b38,rs12894419,ENSG00000119718.11,EIF2B2,8892,1.66490297612534e-08,0.309204787015915,2178
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75009368_G_C_b38,rs4556,ENSG00000119718.11,EIF2B2,8892,1.66489890137931e-08,0.309204816818237,6447
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75012879_T_G_b38,rs1548807,ENSG00000119718.11,EIF2B2,8892,1.42296844906298e-08,0.310200542211533,9958
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75017109_T_C_b38,rs13712,ENSG00000119718.11,EIF2B2,8892,4.07043125653896e-08,0.300331503152847,14188
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75017975_GTC_G_b38,rs5809690,ENSG00000119718.11,EIF2B2,8892,1.66490297612534e-08,0.309204787015915,15054
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75017978_T_A_b38,rs56329719,ENSG00000119718.11,EIF2B2,8892,1.66489890137931e-08,0.309204816818237,15057
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75018069_C_T_b38,rs1955474,ENSG00000119718.11,EIF2B2,8892,4.07043125653896e-08,0.300331503152847,15148
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75031281_C_T_b38,rs735452,ENSG00000119718.11,EIF2B2,8892,1.52691282406894e-08,0.30698236823082,28360
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75036384_C_A_b38,rs11629079,ENSG00000119718.11,EIF2B2,8892,3.09001330569067e-08,0.299188286066055,33463
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75052472_C_T_b38,rs175084,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,49551
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75058136_G_A_b38,rs175510,ENSG00000119718.11,EIF2B2,8892,3.56770145699446e-08,-0.299933761358261,55215
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75069224_G_A_b38,rs175499,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,66303
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75089668_T_C_b38,rs175484,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,86747
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75096766_C_T_b38,rs175478,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,93845
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75123175_C_T_b38,rs449131,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,120254
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75123180_C_T_b38,rs449130,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,120259
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75123637_G_A_b38,rs175450,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,120716
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75135079_G_C_b38,rs175444,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,132158
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75145322_C_T_b38,rs175435,ENSG00000119718.11,EIF2B2,8892,2.74028105685976e-08,-0.307568490505219,142401
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75182261_C_T_b38,rs12433944,ENSG00000119718.11,EIF2B2,8892,1.80258446188961e-08,-0.314091593027115,179340
+chr14,hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),Brain_Substantia_nigra,chr14_75202946_A_G_b38,rs11627442,ENSG00000119718.11,EIF2B2,8892,4.08416144905332e-08,-0.304754734039307,200025

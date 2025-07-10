@@ -1,0 +1,14 @@
+Tissue,Total_Associations,Unique_Pathways,Unique_Genes,Unique_Variants
+Brain_Amygdala,223996,217,508,37764
+Brain_Anterior_cingulate_cortex_BA24,360422,223,808,67199
+Brain_Caudate_basal_ganglia,475374,226,1144,97184
+Brain_Cerebellar_Hemisphere,610745,226,1469,130178
+Brain_Cerebellum,558311,224,1489,130980
+Brain_Cortex,487315,226,1142,102052
+Brain_Frontal_Cortex_BA9,435255,225,1099,98172
+Brain_Hippocampus,350988,224,794,65540
+Brain_Hypothalamus,360628,221,813,67194
+Brain_Nucleus_accumbens_basal_ganglia,479557,224,1145,96638
+Brain_Putamen_basal_ganglia,377047,221,983,74214
+Brain_Spinal_cord_cervical_c-1,308743,220,737,59902
+Brain_Substantia_nigra,220804,212,505,34438
