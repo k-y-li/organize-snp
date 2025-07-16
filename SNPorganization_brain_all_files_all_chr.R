@@ -18,7 +18,7 @@ LOOKUP_TABLE_GZ_FILE <- "/Users/Kevin/gtex data/GTEx_Analysis_2021-02-11_v10_Who
 VARIANT_DB_FILE <- "gtex_variant_lookup.sqlite"
 
 # Main directory to store all output results
-OUTPUT_DIR <- "gtex_brain_pathway_results"
+OUTPUT_DIR <- "/Users/Kevin/organize-snp/gtex_brain_pathway_results"
 
 # Chromosomes to analyze (autosomal only)
 TARGET_CHROMOSOMES <- paste0("chr", 1:22)
