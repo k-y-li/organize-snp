@@ -87,7 +87,7 @@ message("\n--- Part 2: Loading KEGG Pathway Data (if needed) ---")
 kegg_pathways_df <- NULL
 if (file.exists(KEGG_DATA_RDS_FILE)) {
   message("Loading cached KEGG pathway data from ", KEGG_DATA_RDS_FILE)
-  kegg_pathways_df <- as.data.table(read_rds(KEGG_DATA_RDS_FILE))
+  kegg_pathways_df <- as.data.table(readRDS(KEGG_DATA_RDS_FILE))
 } else {
   message("Constructing KEGG pathway-gene relationships using org.Hs.eg.db...")
   kegg_mappings <- tryCatch(AnnotationDbi::select(org.Hs.eg.db, keys = keys(org.Hs.eg.db, keytype = "ENTREZID"),
@@ -113,7 +113,7 @@ if (file.exists(KEGG_DATA_RDS_FILE)) {
   kegg_pathways_df[is.na(pathway_name), pathway_name := "Name not available"]
   kegg_pathways_df <- kegg_pathways_df[, .(pathway_id, pathway_name, entrez_gene_id_kegg,
                                            gene_symbol_kegg = gene_symbol_from_bioc)]
-  write_rds(kegg_pathways_df, KEGG_DATA_RDS_FILE)
+  saveRDS(kegg_pathways_df, KEGG_DATA_RDS_FILE)
   message("Saved KEGG pathway data to ", KEGG_DATA_RDS_FILE)
 }
 message(paste("Loaded", uniqueN(kegg_pathways_df$pathway_id), "KEGG pathways."))
@@ -187,7 +187,7 @@ if (length(brain_files_to_process) == 0) {
 message(sprintf("Found %d brain tissue files to process.", length(brain_files_to_process)))
 print(basename(brain_files_to_process))
 
-overall_summary <- list()
+overall_summary <- data.table()
 
 for (gtex_file_path in brain_files_to_process) {
   
@@ -209,13 +209,13 @@ for (gtex_file_path in brain_files_to_process) {
       next 
     }
     
-    all_chromosome_results <- list()
+    all_chromosome_results <- data.table()
     summary_stats <- data.table()
     
     for (chr in TARGET_CHROMOSOMES) {
       chr_result <- process_chromosome(chr, full_gtex_data, kegg_pathways_df, VARIANT_DB_FILE, tissue_name)
       if (!is.null(chr_result) && nrow(chr_result) > 0) {
-        all_chromosome_results[[chr]] <- chr_result
+        all_chromosome_results <- rbind(all_chromosome_results, chr_result, fill = TRUE)
         chr_summary <- data.table(
           Chromosome = chr, Total_Associations = nrow(chr_result),
           Unique_Pathways = uniqueN(chr_result$Pathway_ID),
@@ -228,7 +228,7 @@ for (gtex_file_path in brain_files_to_process) {
     }
     
     # --- C. Save Results for the current tissue ---
-    if (length(all_chromosome_results) == 0) {
+    if (nrow(all_chromosome_results) == 0) {
       warning("No results were generated for any chromosome for this tissue.", immediate. = TRUE)
     } else {
       
@@ -239,27 +239,27 @@ for (gtex_file_path in brain_files_to_process) {
         dir.create(tissue_csv_dir, recursive = TRUE)
       }
       
-      for (chr_name in names(all_chromosome_results)) {
-        chr_data <- all_chromosome_results[[chr_name]]
+      for (chr_name in unique(all_chromosome_results$Chromosome)) {
+        chr_data <- all_chromosome_results[Chromosome == chr_name]
         output_csv_path <- file.path(tissue_csv_dir, sprintf("%s_%s_eQTL_pathways.csv", tissue_name, chr_name))
         fwrite(chr_data, output_csv_path)
       }
       message(sprintf("CSV files saved in: %s/", tissue_csv_dir))
       
       # --- C2. Save combined RDS file for this tissue ---
-      combined_results <- rbindlist(all_chromosome_results, fill = TRUE)
       output_rds_file <- file.path(OUTPUT_DIR, paste0(tissue_name, "_eQTL_pathways_COMBINED.rds"))
-      saveRDS(combined_results, output_rds_file)
+      saveRDS(all_chromosome_results, output_rds_file)
       message(paste("Combined RDS for this tissue saved to:", output_rds_file))
       
       # --- C3. Update overall summary statistics ---
-      overall_summary[[tissue_name]] <- data.table(
+      tissue_summary <- data.table(
         Tissue = tissue_name,
-        Total_Associations = nrow(combined_results),
-        Unique_Pathways = uniqueN(combined_results$Pathway_ID),
-        Unique_Genes = uniqueN(combined_results$eQTL_Gene_Entrez),
-        Unique_Variants = uniqueN(combined_results$SNP_chr_pos_ref_alt)
+        Total_Associations = nrow(all_chromosome_results),
+        Unique_Pathways = uniqueN(all_chromosome_results$Pathway_ID),
+        Unique_Genes = uniqueN(all_chromosome_results$eQTL_Gene_Entrez),
+        Unique_Variants = uniqueN(all_chromosome_results$SNP_chr_pos_ref_alt)
       )
+      overall_summary <- rbind(overall_summary, tissue_summary)
       
       message(sprintf("\nSummary for %s:", tissue_name))
       print(summary_stats)
@@ -268,8 +268,9 @@ for (gtex_file_path in brain_files_to_process) {
   }, error = function(e) {
     message(sprintf("\n\n !!! ERROR processing %s: %s. Skipping to next file. !!! \n\n", 
                     tissue_name, e$message))
-    overall_summary[[tissue_name]] <- data.table(Tissue = tissue_name, Total_Associations = "FAILED",
-                                                 Unique_Pathways = NA, Unique_Genes = NA, Unique_Variants = NA)
+    error_summary <- data.table(Tissue = tissue_name, Total_Associations = "FAILED",
+                                Unique_Pathways = NA, Unique_Genes = NA, Unique_Variants = NA)
+    overall_summary <- rbind(overall_summary, error_summary, fill = TRUE)
   })
 }
 
@@ -277,13 +278,12 @@ for (gtex_file_path in brain_files_to_process) {
 # --- VI. Final Overall Summary ---
 message("=========== ANALYSIS COMPLETE ===========")
 
-if (length(overall_summary) > 0) {
-  final_summary_table <- rbindlist(overall_summary, fill = TRUE)
+if (nrow(overall_summary) > 0) {
   message("\nOverall Summary Across All Processed Tissues:")
-  print(final_summary_table)
+  print(overall_summary)
   
   summary_csv_path <- file.path(OUTPUT_DIR, "00_overall_brain_tissue_summary.csv")
-  fwrite(final_summary_table, summary_csv_path)
+  fwrite(overall_summary, summary_csv_path)
   
   message(sprintf("\nAll results saved in the '%s' directory.", OUTPUT_DIR))
   message("This includes:")
