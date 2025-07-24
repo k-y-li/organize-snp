@@ -1,387 +1,387 @@
 Chromosome,Pathway_ID,Pathway_Name,Tissue,SNP_chr_pos_ref_alt,SNP_rsID,eQTL_Gene_Ensembl_Versioned,eQTL_Gene_Symbol,eQTL_Gene_Entrez,eQTL_pval_nominal,eQTL_slope,eQTL_TSS_Distance
-chr18,hsa00860,Porphyrin metabolism - Homo sapiens (human),Brain_Amygdala,chr18_57571588_A_G_b38,rs2272783,ENSG00000066926.13,FECH,2235,3.96202538351838e-09,-0.948531210422516,-15114
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_57571588_A_G_b38,rs2272783,ENSG00000066926.13,FECH,2235,3.96202538351838e-09,-0.948531210422516,-15114
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61993228_C_T_b38,rs639743,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-193890
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61993228_C_T_b38,rs639743,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-193890
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61994694_T_C_b38,rs622924,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192424
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61994694_T_C_b38,rs622924,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192424
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61994843_C_A_b38,rs622454,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192275
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61994843_C_A_b38,rs622454,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192275
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61995765_C_T_b38,rs653407,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191353
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61995765_C_T_b38,rs653407,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191353
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61995967_CTG_C_b38,rs35065915,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191151
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61995967_CTG_C_b38,rs35065915,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191151
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61997177_A_G_b38,rs1787669,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-189941
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61997177_A_G_b38,rs1787669,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-189941
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61999661_G_T_b38,rs583339,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-187457
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61999661_G_T_b38,rs583339,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-187457
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62001810_C_T_b38,rs660752,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-185308
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62001810_C_T_b38,rs660752,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-185308
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62004039_T_G_b38,rs514790,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-183079
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62004039_T_G_b38,rs514790,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-183079
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62004179_T_C_b38,rs515812,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182939
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62004179_T_C_b38,rs515812,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182939
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62004372_C_T_b38,rs517604,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182746
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62004372_C_T_b38,rs517604,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182746
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62008693_C_T_b38,rs669819,ENSG00000197563.11,PIGN,23556,9.03024903353211e-09,-0.371790915727615,-178425
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62008693_C_T_b38,rs669819,ENSG00000197563.11,PIGN,23556,9.03024903353211e-09,-0.371790915727615,-178425
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62010599_G_C_b38,rs591189,ENSG00000197563.11,PIGN,23556,8.96656644988937e-09,-0.36892956495285,-176519
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62010599_G_C_b38,rs591189,ENSG00000197563.11,PIGN,23556,8.96656644988937e-09,-0.36892956495285,-176519
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62035781_A_G_b38,rs2003066,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-151337
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62035781_A_G_b38,rs2003066,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-151337
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62037635_C_T_b38,rs7243674,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-149483
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62037635_C_T_b38,rs7243674,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-149483
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62038111_G_A_b38,rs9945494,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-149007
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62038111_G_A_b38,rs9945494,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-149007
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62038408_G_C_b38,rs968066,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-148710
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62038408_G_C_b38,rs968066,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-148710
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62044077_A_G_b38,rs9636100,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-143041
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62044077_A_G_b38,rs9636100,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-143041
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62047558_T_C_b38,rs1116258,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-139560
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62047558_T_C_b38,rs1116258,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-139560
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62049522_T_C_b38,rs7506067,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-137596
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62049522_T_C_b38,rs7506067,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-137596
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62050509_G_A_b38,rs62096635,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-136609
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62050509_G_A_b38,rs62096635,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-136609
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62050893_A_G_b38,rs201987836,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-136225
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62050893_A_G_b38,rs201987836,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-136225
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62053097_G_A_b38,rs9966853,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-134021
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62053097_G_A_b38,rs9966853,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-134021
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62053751_A_G_b38,rs1594487,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-133367
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62053751_A_G_b38,rs1594487,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-133367
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62056420_C_G_b38,rs62095267,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-130698
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62056420_C_G_b38,rs62095267,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-130698
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62060153_T_A_b38,rs879656,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-126965
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62060153_T_A_b38,rs879656,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-126965
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62064501_C_T_b38,rs948687,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-122617
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62064501_C_T_b38,rs948687,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-122617
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62067511_T_C_b38,rs12458329,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-119607
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62067511_T_C_b38,rs12458329,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-119607
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62068227_T_C_b38,rs1030582,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-118891
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62068227_T_C_b38,rs1030582,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-118891
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62069646_A_G_b38,rs12454220,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-117472
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62069646_A_G_b38,rs12454220,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-117472
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62084098_A_G_b38,rs4941107,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-103020
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62084098_A_G_b38,rs4941107,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-103020
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62085902_A_G_b38,rs4941109,ENSG00000197563.11,PIGN,23556,3.85772513167956e-09,-0.364862233400345,-101216
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62085902_A_G_b38,rs4941109,ENSG00000197563.11,PIGN,23556,3.85772513167956e-09,-0.364862233400345,-101216
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62086220_A_T_b38,rs9966135,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-100898
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62086220_A_T_b38,rs9966135,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-100898
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62088570_A_T_b38,rs3764492,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-98548
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62088570_A_T_b38,rs3764492,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-98548
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62096320_T_C_b38,rs10432234,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-90798
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62096320_T_C_b38,rs10432234,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-90798
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62097496_T_C_b38,rs8095118,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-89622
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62097496_T_C_b38,rs8095118,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-89622
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62106277_T_A_b38,rs9319996,ENSG00000197563.11,PIGN,23556,2.42085620035032e-09,-0.369227409362793,-80841
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62106277_T_A_b38,rs9319996,ENSG00000197563.11,PIGN,23556,2.42085620035032e-09,-0.369227409362793,-80841
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62111888_C_T_b38,rs9955716,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-75230
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62111888_C_T_b38,rs9955716,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-75230
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62117886_A_G_b38,rs1367803,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-69232
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62117886_A_G_b38,rs1367803,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-69232
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62122411_T_C_b38,rs9319998,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-64707
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62122411_T_C_b38,rs9319998,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-64707
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62123227_A_G_b38,rs9319999,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63891
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62123227_A_G_b38,rs9319999,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63891
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62123808_A_G_b38,rs4274523,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63310
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62123808_A_G_b38,rs4274523,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63310
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62124718_C_T_b38,rs989407,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-62400
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62124718_C_T_b38,rs989407,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-62400
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62131301_C_T_b38,rs4324237,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55817
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62131301_C_T_b38,rs4324237,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55817
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62131320_C_T_b38,rs4324238,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55798
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62131320_C_T_b38,rs4324238,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55798
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62134263_T_C_b38,rs12150699,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-52855
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62134263_T_C_b38,rs12150699,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-52855
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62142272_C_A_b38,rs11152332,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-44846
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62142272_C_A_b38,rs11152332,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-44846
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147035_G_A_b38,rs9320000,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-40083
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147035_G_A_b38,rs9320000,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-40083
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147258_A_AT_b38,.,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39860
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147258_A_AT_b38,.,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39860
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147433_C_A_b38,rs4940545,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39685
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147433_C_A_b38,rs4940545,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39685
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147500_T_C_b38,rs4941113,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39618
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147500_T_C_b38,rs4941113,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39618
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147538_G_C_b38,rs4941114,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39580
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147538_G_C_b38,rs4941114,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39580
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147753_C_T_b38,rs7240855,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39365
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147753_C_T_b38,rs7240855,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39365
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62148649_G_C_b38,rs10164266,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38469
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62148649_G_C_b38,rs10164266,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38469
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62148887_T_C_b38,rs7232010,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-38231
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62148887_T_C_b38,rs7232010,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-38231
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62149058_A_G_b38,rs9959469,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38060
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62149058_A_G_b38,rs9959469,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38060
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62151773_A_G_b38,rs8098499,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-35345
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62151773_A_G_b38,rs8098499,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-35345
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62152775_G_A_b38,rs1506330,ENSG00000197563.11,PIGN,23556,8.17076613747229e-09,-0.357785522937775,-34343
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62152775_G_A_b38,rs1506330,ENSG00000197563.11,PIGN,23556,8.17076613747229e-09,-0.357785522937775,-34343
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62153075_A_G_b38,rs17715613,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-34043
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62153075_A_G_b38,rs17715613,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-34043
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62153529_A_C_b38,rs1472803,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-33589
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62153529_A_C_b38,rs1472803,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-33589
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62154716_G_A_b38,rs11659731,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-32402
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62154716_G_A_b38,rs11659731,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-32402
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62155086_A_C_b38,rs1472804,ENSG00000197563.11,PIGN,23556,1.03884677853559e-08,-0.356685698032379,-32032
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62155086_A_C_b38,rs1472804,ENSG00000197563.11,PIGN,23556,1.03884677853559e-08,-0.356685698032379,-32032
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156167_A_G_b38,rs17643034,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30951
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156167_A_G_b38,rs17643034,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30951
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156304_C_T_b38,rs3851140,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30814
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156304_C_T_b38,rs3851140,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30814
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156502_T_C_b38,rs3851141,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30616
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156502_T_C_b38,rs3851141,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30616
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156652_G_A_b38,rs3851142,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-30466
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156652_G_A_b38,rs3851142,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-30466
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62157257_A_T_b38,rs1021953,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-29861
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62157257_A_T_b38,rs1021953,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-29861
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62158271_T_C_b38,rs931844,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28847
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62158271_T_C_b38,rs931844,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28847
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62158285_A_G_b38,rs931843,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-28833
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62158285_A_G_b38,rs931843,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-28833
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62158593_T_C_b38,rs7505932,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28525
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62158593_T_C_b38,rs7505932,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28525
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62159807_G_GT_b38,rs57218900,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-27311
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62159807_G_GT_b38,rs57218900,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-27311
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160099_C_T_b38,rs13381928,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-27019
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160099_C_T_b38,rs13381928,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-27019
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160236_T_C_b38,rs17716045,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-26882
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160236_T_C_b38,rs17716045,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-26882
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160271_A_C_b38,rs17643361,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26847
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160271_A_C_b38,rs17643361,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26847
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160736_T_C_b38,rs7359721,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26382
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160736_T_C_b38,rs7359721,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26382
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62161536_C_T_b38,rs3794908,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25582
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62161536_C_T_b38,rs3794908,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25582
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62161939_T_C_b38,rs4468721,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25179
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62161939_T_C_b38,rs4468721,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25179
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62162896_A_G_b38,rs1911078,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-24222
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62162896_A_G_b38,rs1911078,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-24222
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62163250_A_G_b38,rs9807213,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-23868
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62163250_A_G_b38,rs9807213,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-23868
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62163283_C_T_b38,rs7231105,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-23835
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62163283_C_T_b38,rs7231105,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-23835
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62164229_T_C_b38,rs9953509,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-22889
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62164229_T_C_b38,rs9953509,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-22889
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62164434_A_G_b38,rs9951284,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-22684
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62164434_A_G_b38,rs9951284,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-22684
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62167386_T_C_b38,rs62096074,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19732
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62167386_T_C_b38,rs62096074,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19732
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62167937_C_T_b38,rs62096077,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19181
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62167937_C_T_b38,rs62096077,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19181
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62168032_C_T_b38,rs62096078,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19086
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62168032_C_T_b38,rs62096078,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19086
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62168775_T_C_b38,rs4941116,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18343
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62168775_T_C_b38,rs4941116,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18343
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62168807_T_C_b38,rs17716405,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18311
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62168807_T_C_b38,rs17716405,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18311
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62169328_T_C_b38,rs4940547,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17790
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62169328_T_C_b38,rs4940547,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17790
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62169459_C_A_b38,rs28862924,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17659
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62169459_C_A_b38,rs28862924,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17659
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62170170_C_T_b38,rs12457024,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16948
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62170170_C_T_b38,rs12457024,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16948
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62170375_G_GTC_b38,rs35204621,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16743
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62170375_G_GTC_b38,rs35204621,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16743
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62170974_T_C_b38,rs58257527,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16144
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62170974_T_C_b38,rs58257527,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16144
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62171475_A_G_b38,rs56235046,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-15643
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62171475_A_G_b38,rs56235046,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-15643
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62172231_C_T_b38,rs28453360,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14887
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62172231_C_T_b38,rs28453360,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14887
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62172971_C_T_b38,rs17716459,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14147
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62172971_C_T_b38,rs17716459,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14147
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62173880_T_G_b38,rs2062993,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13238
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62173880_T_G_b38,rs2062993,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13238
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174005_A_G_b38,rs4245287,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13113
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174005_A_G_b38,rs4245287,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13113
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174129_A_G_b38,rs4245288,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12989
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174129_A_G_b38,rs4245288,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12989
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174388_T_C_b38,rs1567040,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12730
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174388_T_C_b38,rs1567040,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12730
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174860_T_C_b38,rs1126080,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12258
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174860_T_C_b38,rs1126080,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12258
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62175329_A_T_b38,rs4245289,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11789
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62175329_A_T_b38,rs4245289,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11789
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62175841_T_C_b38,rs4245290,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11277
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62175841_T_C_b38,rs4245290,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11277
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62176186_A_T_b38,rs56118278,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10932
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62176186_A_T_b38,rs56118278,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10932
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62176758_C_T_b38,rs55860048,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10360
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62176758_C_T_b38,rs55860048,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10360
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62176854_T_C_b38,rs62096118,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10264
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62176854_T_C_b38,rs62096118,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10264
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62179162_C_T_b38,rs1605230,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-7956
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62179162_C_T_b38,rs1605230,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-7956
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62180202_T_C_b38,rs4940548,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-6916
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62180202_T_C_b38,rs4940548,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-6916
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62181563_T_C_b38,rs9945824,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-5555
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62181563_T_C_b38,rs9945824,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-5555
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62182328_C_CA_b38,rs34196901,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-4790
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62182328_C_CA_b38,rs34196901,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-4790
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62183224_T_TGTTA_b38,rs10675654,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-3894
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62183224_T_TGTTA_b38,rs10675654,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-3894
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62184412_C_A_b38,rs11659829,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-2706
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62184412_C_A_b38,rs11659829,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-2706
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62184868_T_C_b38,rs7235710,ENSG00000197563.11,PIGN,23556,3.88116511723795e-09,-0.36088439822197,-2250
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62184868_T_C_b38,rs7235710,ENSG00000197563.11,PIGN,23556,3.88116511723795e-09,-0.36088439822197,-2250
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62185499_T_A_b38,rs10439025,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-1619
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62185499_T_A_b38,rs10439025,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-1619
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23498615_A_T_b38,rs8083301,ENSG00000141458.13,NPC1,4864,5.78177501709949e-09,0.203592300415039,-87891
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23507567_C_T_b38,rs891389,ENSG00000141458.13,NPC1,4864,3.48955961395985e-08,-0.19872273504734,-78939
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23521980_A_G_b38,rs1788820,ENSG00000141458.13,NPC1,4864,4.32618371330194e-08,0.195056647062302,-64526
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23540905_A_G_b38,rs1788821,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-45601
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23544981_C_G_b38,rs1788799,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-41525
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23545978_A_G_b38,rs4800489,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-40528
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23550670_C_T_b38,rs1788763,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-35836
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23552607_G_C_b38,rs1788762,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-33899
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23557478_A_G_b38,rs1788760,ENSG00000141458.13,NPC1,4864,5.12839939169336e-09,0.215235382318497,-29028
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23558901_T_C_b38,rs2472610,ENSG00000141458.13,NPC1,4864,1.44225464948422e-08,0.205261558294296,-27605
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23562376_T_C_b38,rs1788785,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-24130
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23562770_A_T_b38,rs1652349,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-23736
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23563028_A_T_b38,rs1624695,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-23478
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23572669_C_CCAAA_b38,rs58002928,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-13837
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23574060_G_A_b38,rs1788826,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-12446
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23579666_A_G_b38,rs1788784,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-6840
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23582324_C_T_b38,rs1429934,ENSG00000141458.13,NPC1,4864,4.54379434559349e-08,0.19746221601963,-4182
-chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23585199_C_T_b38,rs1623003,ENSG00000141458.13,NPC1,4864,9.80557704070716e-09,0.210354775190353,-1307
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,rs1944967,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,rs1944967,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,rs1944967,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,rs1944967,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,rs1944967,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,rs33946724,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,rs33946724,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,rs33946724,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,rs33946724,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,rs33946724,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,rs52911,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,rs52911,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,rs52911,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,rs52911,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,rs52911,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,rs629481,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,rs629481,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,rs629481,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,rs629481,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,rs629481,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,rs625896,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,rs625896,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,rs625896,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,rs625896,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,rs625896,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,rs609301,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,rs609301,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,rs609301,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,rs609301,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,rs609301,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,rs524793,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,rs524793,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,rs524793,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,rs524793,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,rs524793,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,rs590912,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,rs590912,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,rs590912,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,rs590912,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,rs590912,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,rs649610,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,rs649610,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,rs649610,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,rs649610,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,rs649610,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,rs664338,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,rs664338,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,rs664338,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,rs664338,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,rs664338,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,rs34343393,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,rs34343393,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,rs34343393,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,rs34343393,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,rs34343393,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,rs555734,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,rs555734,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,rs555734,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,rs555734,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,rs555734,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,rs573835,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,rs573835,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,rs573835,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,rs573835,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,rs573835,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,rs622612,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,rs622612,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,rs622612,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,rs622612,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,rs622612,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,rs517864,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,rs517864,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,rs517864,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,rs517864,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,rs517864,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,rs533028,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,rs533028,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,rs533028,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,rs533028,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,rs533028,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,rs531258,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,rs531258,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,rs531258,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,rs531258,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,rs531258,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,rs523425,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,rs523425,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,rs523425,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,rs523425,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,rs523425,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,rs1787173,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,rs1787173,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,rs1787173,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,rs1787173,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,rs1787173,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,rs593248,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,rs593248,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,rs593248,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,rs593248,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,rs593248,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,rs639656,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,rs639656,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,rs639656,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,rs639656,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,rs639656,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,rs530113,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,rs530113,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,rs530113,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,rs530113,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,rs530113,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,rs525399,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,rs525399,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,rs525399,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,rs525399,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,rs525399,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,rs500086,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,rs500086,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,rs500086,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,rs500086,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,rs500086,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,rs34170941,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,rs34170941,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,rs34170941,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,rs34170941,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,rs34170941,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,rs515626,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,rs515626,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,rs515626,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,rs515626,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,rs515626,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,rs647512,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,rs647512,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,rs647512,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,rs647512,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,rs647512,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
-chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,rs622939,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,rs622939,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
-chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,rs622939,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
-chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,rs622939,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,rs622939,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
+chr18,hsa00860,Porphyrin metabolism - Homo sapiens (human),Brain_Amygdala,chr18_57571588_A_G_b38,,ENSG00000066926.13,FECH,2235,3.96202538351838e-09,-0.948531210422516,-15114
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_57571588_A_G_b38,,ENSG00000066926.13,FECH,2235,3.96202538351838e-09,-0.948531210422516,-15114
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61993228_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-193890
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61993228_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-193890
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61994694_T_C_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192424
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61994694_T_C_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192424
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61994843_C_A_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192275
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61994843_C_A_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-192275
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61995765_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191353
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61995765_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191353
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61995967_CTG_C_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191151
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61995967_CTG_C_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-191151
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61997177_A_G_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-189941
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61997177_A_G_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-189941
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_61999661_G_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-187457
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_61999661_G_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-187457
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62001810_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-185308
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62001810_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-185308
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62004039_T_G_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-183079
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62004039_T_G_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-183079
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62004179_T_C_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182939
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62004179_T_C_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182939
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62004372_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182746
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62004372_C_T_b38,,ENSG00000197563.11,PIGN,23556,3.72124628121676e-08,-0.349892556667328,-182746
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62008693_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.03024903353211e-09,-0.371790915727615,-178425
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62008693_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.03024903353211e-09,-0.371790915727615,-178425
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62010599_G_C_b38,,ENSG00000197563.11,PIGN,23556,8.96656644988937e-09,-0.36892956495285,-176519
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62010599_G_C_b38,,ENSG00000197563.11,PIGN,23556,8.96656644988937e-09,-0.36892956495285,-176519
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62035781_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-151337
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62035781_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-151337
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62037635_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-149483
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62037635_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-149483
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62038111_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-149007
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62038111_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-149007
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62038408_G_C_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-148710
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62038408_G_C_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-148710
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62044077_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-143041
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62044077_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-143041
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62047558_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-139560
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62047558_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-139560
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62049522_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-137596
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62049522_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-137596
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62050509_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-136609
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62050509_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-136609
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62050893_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-136225
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62050893_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-136225
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62053097_G_A_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-134021
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62053097_G_A_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-134021
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62053751_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-133367
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62053751_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-133367
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62056420_C_G_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-130698
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62056420_C_G_b38,,ENSG00000197563.11,PIGN,23556,2.85727686000533e-10,-0.386388450860977,-130698
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62060153_T_A_b38,,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-126965
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62060153_T_A_b38,,ENSG00000197563.11,PIGN,23556,1.31778142870021e-10,-0.389753848314285,-126965
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62064501_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-122617
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62064501_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.37110341606223e-09,-0.370276600122452,-122617
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62067511_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-119607
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62067511_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-119607
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62068227_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-118891
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62068227_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-118891
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62069646_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-117472
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62069646_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.07051258790583e-10,-0.387258589267731,-117472
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62084098_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-103020
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62084098_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-103020
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62085902_A_G_b38,,ENSG00000197563.11,PIGN,23556,3.85772513167956e-09,-0.364862233400345,-101216
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62085902_A_G_b38,,ENSG00000197563.11,PIGN,23556,3.85772513167956e-09,-0.364862233400345,-101216
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62086220_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-100898
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62086220_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-100898
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62088570_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-98548
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62088570_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-98548
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62096320_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-90798
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62096320_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-90798
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62097496_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-89622
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62097496_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-89622
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62106277_T_A_b38,,ENSG00000197563.11,PIGN,23556,2.42085620035032e-09,-0.369227409362793,-80841
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62106277_T_A_b38,,ENSG00000197563.11,PIGN,23556,2.42085620035032e-09,-0.369227409362793,-80841
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62111888_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-75230
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62111888_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-75230
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62117886_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-69232
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62117886_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-69232
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62122411_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-64707
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62122411_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-64707
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62123227_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63891
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62123227_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63891
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62123808_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63310
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62123808_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-63310
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62124718_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-62400
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62124718_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-62400
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62131301_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55817
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62131301_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55817
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62131320_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55798
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62131320_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-55798
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62134263_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-52855
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62134263_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-52855
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62142272_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-44846
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62142272_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.94390174100157e-09,-0.36786812543869,-44846
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147035_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-40083
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147035_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-40083
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147258_A_AT_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39860
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147258_A_AT_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39860
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147433_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39685
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147433_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39685
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147500_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39618
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147500_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39618
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147538_G_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39580
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147538_G_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39580
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62147753_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39365
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62147753_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-39365
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62148649_G_C_b38,,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38469
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62148649_G_C_b38,,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38469
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62148887_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-38231
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62148887_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-38231
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62149058_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38060
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62149058_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-38060
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62151773_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-35345
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62151773_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-35345
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62152775_G_A_b38,,ENSG00000197563.11,PIGN,23556,8.17076613747229e-09,-0.357785522937775,-34343
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62152775_G_A_b38,,ENSG00000197563.11,PIGN,23556,8.17076613747229e-09,-0.357785522937775,-34343
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62153075_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-34043
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62153075_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.24342160155241e-09,-0.369228601455689,-34043
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62153529_A_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-33589
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62153529_A_C_b38,,ENSG00000197563.11,PIGN,23556,1.18352438428882e-09,-0.371222048997879,-33589
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62154716_G_A_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-32402
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62154716_G_A_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-32402
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62155086_A_C_b38,,ENSG00000197563.11,PIGN,23556,1.03884677853559e-08,-0.356685698032379,-32032
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62155086_A_C_b38,,ENSG00000197563.11,PIGN,23556,1.03884677853559e-08,-0.356685698032379,-32032
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156167_A_G_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30951
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156167_A_G_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30951
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156304_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30814
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156304_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30814
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156502_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30616
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156502_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-30616
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62156652_G_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-30466
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62156652_G_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-30466
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62157257_A_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-29861
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62157257_A_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-29861
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62158271_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28847
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62158271_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28847
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62158285_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-28833
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62158285_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-28833
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62158593_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28525
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62158593_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-28525
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62159807_G_GT_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-27311
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62159807_G_GT_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-27311
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160099_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-27019
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160099_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-27019
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160236_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-26882
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160236_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-26882
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160271_A_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26847
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160271_A_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26847
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62160736_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26382
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62160736_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-26382
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62161536_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25582
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62161536_C_T_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25582
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62161939_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25179
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62161939_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-25179
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62162896_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-24222
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62162896_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-24222
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62163250_A_G_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-23868
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62163250_A_G_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-23868
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62163283_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-23835
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62163283_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-23835
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62164229_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-22889
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62164229_T_C_b38,,ENSG00000197563.11,PIGN,23556,9.90817208776134e-09,-0.355557411909103,-22889
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62164434_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-22684
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62164434_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-22684
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62167386_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19732
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62167386_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19732
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62167937_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19181
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62167937_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19181
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62168032_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19086
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62168032_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-19086
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62168775_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18343
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62168775_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18343
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62168807_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18311
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62168807_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-18311
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62169328_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17790
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62169328_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17790
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62169459_C_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17659
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62169459_C_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-17659
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62170170_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16948
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62170170_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16948
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62170375_G_GTC_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16743
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62170375_G_GTC_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16743
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62170974_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16144
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62170974_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-16144
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62171475_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-15643
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62171475_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-15643
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62172231_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14887
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62172231_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14887
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62172971_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14147
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62172971_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-14147
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62173880_T_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13238
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62173880_T_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13238
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174005_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13113
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174005_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-13113
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174129_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12989
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174129_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12989
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174388_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12730
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174388_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12730
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62174860_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12258
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62174860_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-12258
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62175329_A_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11789
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62175329_A_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11789
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62175841_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11277
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62175841_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-11277
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62176186_A_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10932
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62176186_A_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10932
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62176758_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10360
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62176758_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10360
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62176854_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10264
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62176854_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-10264
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62179162_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-7956
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62179162_C_T_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-7956
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62180202_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-6916
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62180202_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-6916
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62181563_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-5555
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62181563_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-5555
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62182328_C_CA_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-4790
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62182328_C_CA_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-4790
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62183224_T_TGTTA_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-3894
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62183224_T_TGTTA_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-3894
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62184412_C_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-2706
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62184412_C_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-2706
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62184868_T_C_b38,,ENSG00000197563.11,PIGN,23556,3.88116511723795e-09,-0.36088439822197,-2250
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62184868_T_C_b38,,ENSG00000197563.11,PIGN,23556,3.88116511723795e-09,-0.36088439822197,-2250
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Amygdala,chr18_62185499_T_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-1619
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_62185499_T_A_b38,,ENSG00000197563.11,PIGN,23556,5.46332451582937e-09,-0.357384026050568,-1619
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23498615_A_T_b38,,ENSG00000141458.13,NPC1,4864,5.78177501709949e-09,0.203592300415039,-87891
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23507567_C_T_b38,,ENSG00000141458.13,NPC1,4864,3.48955961395985e-08,-0.19872273504734,-78939
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23521980_A_G_b38,,ENSG00000141458.13,NPC1,4864,4.32618371330194e-08,0.195056647062302,-64526
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23540905_A_G_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-45601
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23544981_C_G_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-41525
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23545978_A_G_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-40528
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23550670_C_T_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-35836
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23552607_G_C_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-33899
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23557478_A_G_b38,,ENSG00000141458.13,NPC1,4864,5.12839939169336e-09,0.215235382318497,-29028
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23558901_T_C_b38,,ENSG00000141458.13,NPC1,4864,1.44225464948422e-08,0.205261558294296,-27605
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23562376_T_C_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-24130
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23562770_A_T_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-23736
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23563028_A_T_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-23478
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23572669_C_CCAAA_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-13837
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23574060_G_A_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-12446
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23579666_A_G_b38,,ENSG00000141458.13,NPC1,4864,3.52451351774225e-08,0.202437371015549,-6840
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23582324_C_T_b38,,ENSG00000141458.13,NPC1,4864,4.54379434559349e-08,0.19746221601963,-4182
+chr18,hsa04142,Lysosome - Homo sapiens (human),Brain_Amygdala,chr18_23585199_C_T_b38,,ENSG00000141458.13,NPC1,4864,9.80557704070716e-09,0.210354775190353,-1307
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41951174_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,-4060
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41962442_GAT_G_b38,,ENSG00000078142.14,PIK3C3,5289,2.67120019790235e-08,-0.340162754058838,7208
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41974975_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,19741
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41980790_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,25556
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41983566_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,28332
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41984723_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,29489
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41988480_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,33246
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41989501_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,34267
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41992294_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,37060
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_41994459_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,39225
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42006427_GC_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,51193
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42008948_G_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,53714
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42014860_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59626
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42015139_A_G_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,59905
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42016325_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,61091
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42019809_A_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64575
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42019975_T_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,64741
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42022273_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,67039
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42026379_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,71145
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42034146_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,78912
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42049176_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,93942
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42055852_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,100618
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42056401_C_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101167
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42057104_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,101870
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42057282_T_TTACA_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102048
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42057581_C_T_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,102347
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42059512_G_A_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,104278
+chr18,hsa00562,Inositol phosphate metabolism - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
+chr18,hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
+chr18,hsa04140,Autophagy - animal - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Amygdala,chr18_42061357_T_C_b38,,ENSG00000078142.14,PIK3C3,5289,4.96047847674989e-08,-0.330076068639755,106123

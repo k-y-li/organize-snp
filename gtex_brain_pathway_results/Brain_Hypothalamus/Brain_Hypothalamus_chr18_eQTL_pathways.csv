@@ -1,419 +1,419 @@
 Chromosome,Pathway_ID,Pathway_Name,Tissue,SNP_chr_pos_ref_alt,SNP_rsID,eQTL_Gene_Ensembl_Versioned,eQTL_Gene_Symbol,eQTL_Gene_Entrez,eQTL_pval_nominal,eQTL_slope,eQTL_TSS_Distance
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79966944_G_C_b38,rs9962647,ENSG00000141759.15,TXNL4A,10907,1.21743596115733e-08,-0.225817546248436,-67005
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79968135_G_T_b38,rs2298645,ENSG00000141759.15,TXNL4A,10907,6.97081911410034e-09,-0.229608908295631,-65814
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79968594_A_G_b38,rs34937055,ENSG00000141759.15,TXNL4A,10907,1.1870762071295e-08,-0.226733356714249,-65355
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79969549_T_C_b38,rs7505247,ENSG00000141759.15,TXNL4A,10907,4.44981041859695e-09,-0.233293369412422,-64400
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79970197_A_G_b38,rs4799113,ENSG00000141759.15,TXNL4A,10907,4.85998972714274e-09,-0.233918577432632,-63752
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79970825_A_G_b38,rs11664946,ENSG00000141759.15,TXNL4A,10907,2.10772066554629e-09,-0.23984007537365,-63124
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79976365_T_A_b38,rs4799115,ENSG00000141759.15,TXNL4A,10907,8.29257662322014e-10,-0.269087374210358,-57584
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79976735_T_C_b38,rs4799116,ENSG00000141759.15,TXNL4A,10907,1.43469099855765e-09,-0.242134049534798,-57214
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79977397_C_T_b38,rs11081576,ENSG00000141759.15,TXNL4A,10907,8.29657550890308e-09,-0.225281253457069,-56552
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79978025_C_T_b38,rs7228971,ENSG00000141759.15,TXNL4A,10907,8.29257662322014e-10,-0.269087374210358,-55924
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79979098_T_C_b38,rs11661671,ENSG00000141759.15,TXNL4A,10907,7.84960204423638e-10,-0.244756370782852,-54851
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79980544_T_C_b38,rs9957220,ENSG00000141759.15,TXNL4A,10907,7.84960204423638e-10,-0.244756370782852,-53405
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79982214_AAGC_A_b38,rs80094611,ENSG00000141759.15,TXNL4A,10907,1.86216434469708e-08,0.259239941835403,-51735
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79983996_A_G_b38,rs11660677,ENSG00000141759.15,TXNL4A,10907,1.28903934157569e-09,-0.242001071572304,-49953
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79984401_C_CT_b38,rs11438015,ENSG00000141759.15,TXNL4A,10907,7.84960204423638e-10,-0.244756370782852,-49548
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79985640_A_G_b38,rs10438902,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-48309
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79986623_T_C_b38,rs8086024,ENSG00000141759.15,TXNL4A,10907,2.5336704536709e-09,-0.239922717213631,-47326
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79987542_T_C_b38,rs7235319,ENSG00000141759.15,TXNL4A,10907,1.43469099855765e-09,-0.242134049534798,-46407
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79988525_A_C_b38,rs1077511,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-45424
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79988975_G_A_b38,rs1864529,ENSG00000141759.15,TXNL4A,10907,3.62729041888229e-08,-0.234411001205444,-44974
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79989211_G_T_b38,rs8094677,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-44738
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79991151_A_G_b38,rs4410147,ENSG00000141759.15,TXNL4A,10907,9.52898862958219e-10,-0.240505740046501,-42798
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79992801_C_T_b38,rs9947741,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-41148
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79993037_G_A_b38,rs9949598,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-40912
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79993043_C_T_b38,rs9950371,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-40906
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79995179_T_C_b38,rs3893907,ENSG00000141759.15,TXNL4A,10907,2.99379973212264e-09,-0.239011466503143,-38770
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79995660_C_T_b38,rs9957338,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-38289
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79995819_A_C_b38,rs8083389,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-38130
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79996289_G_A_b38,rs8085930,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-37660
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79996604_G_A_b38,rs4799117,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-37345
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79996664_A_C_b38,rs4799118,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-37285
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79997448_A_AAAT_b38,rs34671057,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-36501
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79997882_T_A_b38,rs12456805,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-36067
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79997949_T_G_b38,rs1652663,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-36000
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79998837_T_C_b38,rs4020401,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-35112
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79999582_A_G_b38,rs4283293,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-34367
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80002141_C_T_b38,rs35396722,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-31808
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80002824_C_T_b38,rs919530,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-31125
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80004353_T_C_b38,rs4799120,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-29596
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80005618_G_A_b38,rs1816311,ENSG00000141759.15,TXNL4A,10907,1.85565215665846e-09,-0.239477828145027,-28331
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80005839_C_G_b38,rs1816312,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-28110
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006298_C_T_b38,rs10163776,ENSG00000141759.15,TXNL4A,10907,9.52898862958219e-10,-0.240505740046501,-27651
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006438_G_A_b38,rs8091879,ENSG00000141759.15,TXNL4A,10907,1.85565215665846e-09,-0.239477828145027,-27511
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006478_A_G_b38,rs8093420,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-27471
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006936_G_A_b38,rs2364974,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-27013
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80007204_A_G_b38,rs11659148,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-26745
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80007566_T_C_b38,rs12454588,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-26383
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80007935_A_G_b38,rs11081582,ENSG00000141759.15,TXNL4A,10907,5.11113701317801e-09,-0.230866551399231,-26014
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80066399_C_G_b38,rs4442895,ENSG00000141759.15,TXNL4A,10907,3.94318817849191e-09,-0.261027604341507,32450
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80073851_G_A_b38,rs8088089,ENSG00000141759.15,TXNL4A,10907,3.99972696696471e-09,0.261200934648514,39902
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80074355_T_C_b38,rs9961158,ENSG00000141759.15,TXNL4A,10907,3.99972696696471e-09,0.261200934648514,40406
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80074960_G_A_b38,rs34383580,ENSG00000141759.15,TXNL4A,10907,3.99972696696471e-09,0.261200934648514,41011
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80081068_G_C_b38,rs551643,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,47119
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80083688_T_C_b38,rs9967439,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,49739
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80087736_G_A_b38,rs613847,ENSG00000141759.15,TXNL4A,10907,3.94318817849191e-09,0.261027604341507,53787
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80087974_G_A_b38,rs612913,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,54025
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80090098_C_T_b38,rs1715230,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,56149
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80091490_CTT_C_b38,rs1347489570,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,57541
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80091557_G_T_b38,rs473119,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,57608
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80098501_T_C_b38,rs4799132,ENSG00000141759.15,TXNL4A,10907,1.95714499826353e-09,0.26632171869278,64552
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80173368_T_C_b38,rs8094066,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,139419
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80182722_G_T_b38,rs12963163,ENSG00000141759.15,TXNL4A,10907,3.61312143122817e-08,0.237739026546478,148773
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80191205_T_C_b38,rs8095413,ENSG00000141759.15,TXNL4A,10907,3.63460483102328e-08,0.23778323829174,157256
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80194756_A_C_b38,rs9956558,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,160807
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80203646_A_G_b38,rs7235249,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,169697
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80203650_A_G_b38,rs7235254,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,169701
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80230443_G_T_b38,rs56808857,ENSG00000141759.15,TXNL4A,10907,1.31977463716737e-09,0.279336512088776,196494
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80245424_G_A_b38,rs12961654,ENSG00000141759.15,TXNL4A,10907,1.69099959407668e-08,0.252947360277176,211475
-chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80248871_A_G_b38,rs8088277,ENSG00000141759.15,TXNL4A,10907,1.31977463716737e-09,0.279336512088776,214922
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62035781_A_G_b38,rs2003066,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-151337
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62035781_A_G_b38,rs2003066,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-151337
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62037635_C_T_b38,rs7243674,ENSG00000197563.11,PIGN,23556,2.16502524431015e-10,-0.276783466339111,-149483
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62037635_C_T_b38,rs7243674,ENSG00000197563.11,PIGN,23556,2.16502524431015e-10,-0.276783466339111,-149483
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62038111_G_A_b38,rs9945494,ENSG00000197563.11,PIGN,23556,3.59424340042339e-09,-0.259158581495285,-149007
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62038111_G_A_b38,rs9945494,ENSG00000197563.11,PIGN,23556,3.59424340042339e-09,-0.259158581495285,-149007
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62038408_G_C_b38,rs968066,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-148710
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62038408_G_C_b38,rs968066,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-148710
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62044077_A_G_b38,rs9636100,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-143041
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62044077_A_G_b38,rs9636100,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-143041
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62047558_T_C_b38,rs1116258,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-139560
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62047558_T_C_b38,rs1116258,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-139560
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62049522_T_C_b38,rs7506067,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-137596
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62049522_T_C_b38,rs7506067,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-137596
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62050509_G_A_b38,rs62096635,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-136609
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62050509_G_A_b38,rs62096635,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-136609
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62050893_A_G_b38,rs201987836,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-136225
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62050893_A_G_b38,rs201987836,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-136225
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62053097_G_A_b38,rs9966853,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-134021
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62053097_G_A_b38,rs9966853,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-134021
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62053751_A_G_b38,rs1594487,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-133367
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62053751_A_G_b38,rs1594487,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-133367
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62056420_C_G_b38,rs62095267,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-130698
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62056420_C_G_b38,rs62095267,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-130698
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62060153_T_A_b38,rs879656,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-126965
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62060153_T_A_b38,rs879656,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-126965
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62064501_C_T_b38,rs948687,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-122617
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62064501_C_T_b38,rs948687,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-122617
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62067511_T_C_b38,rs12458329,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-119607
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62067511_T_C_b38,rs12458329,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-119607
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62068227_T_C_b38,rs1030582,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-118891
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62068227_T_C_b38,rs1030582,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-118891
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62069646_A_G_b38,rs12454220,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-117472
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62069646_A_G_b38,rs12454220,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-117472
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62084098_A_G_b38,rs4941107,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-103020
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62084098_A_G_b38,rs4941107,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-103020
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62085902_A_G_b38,rs4941109,ENSG00000197563.11,PIGN,23556,5.82084251625571e-10,-0.271100521087647,-101216
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62085902_A_G_b38,rs4941109,ENSG00000197563.11,PIGN,23556,5.82084251625571e-10,-0.271100521087647,-101216
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62086220_A_T_b38,rs9966135,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-100898
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62086220_A_T_b38,rs9966135,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-100898
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62088570_A_T_b38,rs3764492,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-98548
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62088570_A_T_b38,rs3764492,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-98548
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62096320_T_C_b38,rs10432234,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-90798
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62096320_T_C_b38,rs10432234,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-90798
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62097496_T_C_b38,rs8095118,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-89622
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62097496_T_C_b38,rs8095118,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-89622
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62106277_T_A_b38,rs9319996,ENSG00000197563.11,PIGN,23556,3.34842774509096e-10,-0.274782419204712,-80841
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62106277_T_A_b38,rs9319996,ENSG00000197563.11,PIGN,23556,3.34842774509096e-10,-0.274782419204712,-80841
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62111888_C_T_b38,rs9955716,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-75230
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62111888_C_T_b38,rs9955716,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-75230
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62117886_A_G_b38,rs1367803,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-69232
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62117886_A_G_b38,rs1367803,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-69232
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62122411_T_C_b38,rs9319998,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-64707
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62122411_T_C_b38,rs9319998,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-64707
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62123227_A_G_b38,rs9319999,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63891
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62123227_A_G_b38,rs9319999,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63891
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62123808_A_G_b38,rs4274523,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63310
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62123808_A_G_b38,rs4274523,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63310
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62124718_C_T_b38,rs989407,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-62400
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62124718_C_T_b38,rs989407,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-62400
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62131301_C_T_b38,rs4324237,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55817
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62131301_C_T_b38,rs4324237,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55817
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62131320_C_T_b38,rs4324238,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55798
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62131320_C_T_b38,rs4324238,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55798
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62134263_T_C_b38,rs12150699,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-52855
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62134263_T_C_b38,rs12150699,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-52855
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62137618_C_G_b38,rs62097166,ENSG00000197563.11,PIGN,23556,1.07514173332597e-08,-0.255318433046341,-49500
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62137618_C_G_b38,rs62097166,ENSG00000197563.11,PIGN,23556,1.07514173332597e-08,-0.255318433046341,-49500
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62142272_C_A_b38,rs11152332,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-44846
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62142272_C_A_b38,rs11152332,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-44846
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147035_G_A_b38,rs9320000,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-40083
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147035_G_A_b38,rs9320000,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-40083
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147258_A_AT_b38,.,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39860
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147258_A_AT_b38,.,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39860
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147433_C_A_b38,rs4940545,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39685
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147433_C_A_b38,rs4940545,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39685
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147500_T_C_b38,rs4941113,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39618
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147500_T_C_b38,rs4941113,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39618
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147538_G_C_b38,rs4941114,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39580
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147538_G_C_b38,rs4941114,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39580
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147753_C_T_b38,rs7240855,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39365
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147753_C_T_b38,rs7240855,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39365
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62148649_G_C_b38,rs10164266,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38469
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62148649_G_C_b38,rs10164266,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38469
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62148887_T_C_b38,rs7232010,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-38231
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62148887_T_C_b38,rs7232010,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-38231
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62149058_A_G_b38,rs9959469,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38060
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62149058_A_G_b38,rs9959469,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38060
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62151773_A_G_b38,rs8098499,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-35345
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62151773_A_G_b38,rs8098499,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-35345
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62152775_G_A_b38,rs1506330,ENSG00000197563.11,PIGN,23556,1.17300654485438e-09,-0.273322135210037,-34343
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62152775_G_A_b38,rs1506330,ENSG00000197563.11,PIGN,23556,1.17300654485438e-09,-0.273322135210037,-34343
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62153075_A_G_b38,rs17715613,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-34043
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62153075_A_G_b38,rs17715613,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-34043
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62153529_A_C_b38,rs1472803,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-33589
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62153529_A_C_b38,rs1472803,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-33589
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62154716_G_A_b38,rs11659731,ENSG00000197563.11,PIGN,23556,3.16569606977233e-09,-0.266413569450378,-32402
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62154716_G_A_b38,rs11659731,ENSG00000197563.11,PIGN,23556,3.16569606977233e-09,-0.266413569450378,-32402
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62155086_A_C_b38,rs1472804,ENSG00000197563.11,PIGN,23556,2.89792925607233e-09,-0.267492145299912,-32032
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62155086_A_C_b38,rs1472804,ENSG00000197563.11,PIGN,23556,2.89792925607233e-09,-0.267492145299912,-32032
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156167_A_G_b38,rs17643034,ENSG00000197563.11,PIGN,23556,2.41316243569955e-09,-0.267369031906128,-30951
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156167_A_G_b38,rs17643034,ENSG00000197563.11,PIGN,23556,2.41316243569955e-09,-0.267369031906128,-30951
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156304_C_T_b38,rs3851140,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30814
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156304_C_T_b38,rs3851140,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30814
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156502_T_C_b38,rs3851141,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30616
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156502_T_C_b38,rs3851141,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30616
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156652_G_A_b38,rs3851142,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-30466
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156652_G_A_b38,rs3851142,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-30466
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62157257_A_T_b38,rs1021953,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-29861
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62157257_A_T_b38,rs1021953,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-29861
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62158271_T_C_b38,rs931844,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28847
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62158271_T_C_b38,rs931844,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28847
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62158285_A_G_b38,rs931843,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-28833
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62158285_A_G_b38,rs931843,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-28833
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62158593_T_C_b38,rs7505932,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28525
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62158593_T_C_b38,rs7505932,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28525
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62159807_G_GT_b38,rs57218900,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-27311
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62159807_G_GT_b38,rs57218900,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-27311
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160099_C_T_b38,rs13381928,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-27019
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160099_C_T_b38,rs13381928,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-27019
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160236_T_C_b38,rs17716045,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-26882
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160236_T_C_b38,rs17716045,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-26882
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160271_A_C_b38,rs17643361,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26847
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160271_A_C_b38,rs17643361,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26847
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160736_T_C_b38,rs7359721,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26382
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160736_T_C_b38,rs7359721,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26382
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62161536_C_T_b38,rs3794908,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25582
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62161536_C_T_b38,rs3794908,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25582
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62161939_T_C_b38,rs4468721,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25179
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62161939_T_C_b38,rs4468721,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25179
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62162896_A_G_b38,rs1911078,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-24222
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62162896_A_G_b38,rs1911078,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-24222
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62163250_A_G_b38,rs9807213,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-23868
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62163250_A_G_b38,rs9807213,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-23868
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62163283_C_T_b38,rs7231105,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-23835
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62163283_C_T_b38,rs7231105,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-23835
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62164229_T_C_b38,rs9953509,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-22889
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62164229_T_C_b38,rs9953509,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-22889
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62164434_A_G_b38,rs9951284,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-22684
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62164434_A_G_b38,rs9951284,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-22684
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62167386_T_C_b38,rs62096074,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19732
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62167386_T_C_b38,rs62096074,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19732
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62167937_C_T_b38,rs62096077,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19181
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62167937_C_T_b38,rs62096077,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19181
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62168032_C_T_b38,rs62096078,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19086
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62168032_C_T_b38,rs62096078,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19086
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62168775_T_C_b38,rs4941116,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18343
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62168775_T_C_b38,rs4941116,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18343
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62168807_T_C_b38,rs17716405,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18311
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62168807_T_C_b38,rs17716405,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18311
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62169328_T_C_b38,rs4940547,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17790
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62169328_T_C_b38,rs4940547,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17790
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62169459_C_A_b38,rs28862924,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17659
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62169459_C_A_b38,rs28862924,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17659
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62170170_C_T_b38,rs12457024,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16948
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62170170_C_T_b38,rs12457024,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16948
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62170375_G_GTC_b38,rs35204621,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16743
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62170375_G_GTC_b38,rs35204621,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16743
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62170974_T_C_b38,rs58257527,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16144
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62170974_T_C_b38,rs58257527,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16144
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62171475_A_G_b38,rs56235046,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-15643
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62171475_A_G_b38,rs56235046,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-15643
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62172231_C_T_b38,rs28453360,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-14887
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62172231_C_T_b38,rs28453360,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-14887
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62172971_C_T_b38,rs17716459,ENSG00000197563.11,PIGN,23556,8.14624476805545e-10,-0.268384873867035,-14147
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62172971_C_T_b38,rs17716459,ENSG00000197563.11,PIGN,23556,8.14624476805545e-10,-0.268384873867035,-14147
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62173880_T_G_b38,rs2062993,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13238
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62173880_T_G_b38,rs2062993,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13238
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174005_A_G_b38,rs4245287,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13113
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174005_A_G_b38,rs4245287,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13113
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174129_A_G_b38,rs4245288,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12989
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174129_A_G_b38,rs4245288,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12989
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174388_T_C_b38,rs1567040,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12730
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174388_T_C_b38,rs1567040,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12730
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174860_T_C_b38,rs1126080,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12258
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174860_T_C_b38,rs1126080,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12258
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62175329_A_T_b38,rs4245289,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11789
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62175329_A_T_b38,rs4245289,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11789
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62175841_T_C_b38,rs4245290,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11277
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62175841_T_C_b38,rs4245290,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11277
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62176186_A_T_b38,rs56118278,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10932
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62176186_A_T_b38,rs56118278,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10932
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62176758_C_T_b38,rs55860048,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10360
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62176758_C_T_b38,rs55860048,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10360
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62176854_T_C_b38,rs62096118,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10264
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62176854_T_C_b38,rs62096118,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10264
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62179162_C_T_b38,rs1605230,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-7956
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62179162_C_T_b38,rs1605230,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-7956
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62180202_T_C_b38,rs4940548,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-6916
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62180202_T_C_b38,rs4940548,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-6916
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62181563_T_C_b38,rs9945824,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-5555
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62181563_T_C_b38,rs9945824,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-5555
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62182328_C_CA_b38,rs34196901,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-4790
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62182328_C_CA_b38,rs34196901,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-4790
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62183224_T_TGTTA_b38,rs10675654,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-3894
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62183224_T_TGTTA_b38,rs10675654,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-3894
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62184412_C_A_b38,rs11659829,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-2706
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62184412_C_A_b38,rs11659829,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-2706
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62184868_T_C_b38,rs7235710,ENSG00000197563.11,PIGN,23556,2.13194163248161e-09,-0.262034982442856,-2250
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62184868_T_C_b38,rs7235710,ENSG00000197563.11,PIGN,23556,2.13194163248161e-09,-0.262034982442856,-2250
-chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62185499_T_A_b38,rs10439025,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-1619
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62185499_T_A_b38,rs10439025,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-1619
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35647917_C_G_b38,rs55953335,ENSG00000141429.14,GALNT1,2589,2.35363650964629e-08,-0.504973888397217,66800
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35647917_C_G_b38,rs55953335,ENSG00000141429.14,GALNT1,2589,2.35363650964629e-08,-0.504973888397217,66800
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35664933_A_G_b38,rs10502650,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,83816
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35664933_A_G_b38,rs10502650,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,83816
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35680266_T_A_b38,rs72964455,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,99149
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35680266_T_A_b38,rs72964455,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,99149
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35705427_A_G_b38,rs2051288,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,124310
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35705427_A_G_b38,rs2051288,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,124310
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35707496_T_C_b38,rs3786388,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126379
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35707496_T_C_b38,rs3786388,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126379
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35707706_A_C_b38,rs3786386,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126589
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35707706_A_C_b38,rs3786386,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126589
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35711438_A_G_b38,rs1050781,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130321
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35711438_A_G_b38,rs1050781,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130321
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35711929_C_A_b38,rs16967037,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130812
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35711929_C_A_b38,rs16967037,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130812
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35712840_G_A_b38,rs72891623,ENSG00000141429.14,GALNT1,2589,2.95627245315046e-08,-0.530301690101624,131723
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35712840_G_A_b38,rs72891623,ENSG00000141429.14,GALNT1,2589,2.95627245315046e-08,-0.530301690101624,131723
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35714360_C_CGTT_b38,rs74312526,ENSG00000141429.14,GALNT1,2589,4.05817377411143e-08,-0.509978294372559,133243
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35714360_C_CGTT_b38,rs74312526,ENSG00000141429.14,GALNT1,2589,4.05817377411143e-08,-0.509978294372559,133243
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35714852_G_A_b38,rs16967040,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,133735
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35714852_G_A_b38,rs16967040,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,133735
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35719161_T_C_b38,rs7245097,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138044
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35719161_T_C_b38,rs7245097,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138044
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35720082_G_A_b38,rs72891639,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138965
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35720082_G_A_b38,rs72891639,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138965
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35720490_T_C_b38,rs72891642,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,139373
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35720490_T_C_b38,rs72891642,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,139373
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35724119_C_T_b38,rs72891653,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,143002
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35724119_C_T_b38,rs72891653,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,143002
-chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35728352_A_G_b38,rs58352124,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,147235
-chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35728352_A_G_b38,rs58352124,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,147235
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_771046_C_G_b38,rs12955644,ENSG00000176105.14,YES1,7525,4.4931665861762e-08,0.17895545065403,-41500
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_771046_C_G_b38,rs12955644,ENSG00000176105.14,YES1,7525,4.4931665861762e-08,0.17895545065403,-41500
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_772063_T_C_b38,rs7227492,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-40483
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_772063_T_C_b38,rs7227492,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-40483
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_773091_T_C_b38,rs7232858,ENSG00000176105.14,YES1,7525,1.01753252279278e-08,0.180619806051254,-39455
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_773091_T_C_b38,rs7232858,ENSG00000176105.14,YES1,7525,1.01753252279278e-08,0.180619806051254,-39455
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_777281_T_A_b38,rs34413141,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-35265
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_777281_T_A_b38,rs34413141,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-35265
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_784547_G_A_b38,rs4121550,ENSG00000176105.14,YES1,7525,1.05108934899989e-09,0.160639464855194,-27999
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_784547_G_A_b38,rs4121550,ENSG00000176105.14,YES1,7525,1.05108934899989e-09,0.160639464855194,-27999
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_786568_T_C_b38,rs66563455,ENSG00000176105.14,YES1,7525,1.08519088303246e-08,0.181922018527985,-25978
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_786568_T_C_b38,rs66563455,ENSG00000176105.14,YES1,7525,1.08519088303246e-08,0.181922018527985,-25978
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_796460_T_G_b38,rs7243185,ENSG00000176105.14,YES1,7525,3.89036356584623e-08,0.149174883961678,-16086
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_796460_T_G_b38,rs7243185,ENSG00000176105.14,YES1,7525,3.89036356584623e-08,0.149174883961678,-16086
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798268_C_T_b38,rs3875087,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14278
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798268_C_T_b38,rs3875087,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14278
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798446_C_T_b38,rs3875086,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14100
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798446_C_T_b38,rs3875086,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14100
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_800536_G_A_b38,rs4121552,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-12010
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_800536_G_A_b38,rs4121552,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-12010
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803577_C_G_b38,rs4085842,ENSG00000176105.14,YES1,7525,2.33365609666393e-09,0.158891916275024,-8969
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803577_C_G_b38,rs4085842,ENSG00000176105.14,YES1,7525,2.33365609666393e-09,0.158891916275024,-8969
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803838_T_G_b38,rs4085841,ENSG00000176105.14,YES1,7525,1.77786454025248e-09,0.160478532314301,-8708
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803838_T_G_b38,rs4085841,ENSG00000176105.14,YES1,7525,1.77786454025248e-09,0.160478532314301,-8708
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_804013_T_C_b38,rs4085840,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-8533
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_804013_T_C_b38,rs4085840,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-8533
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_805558_C_G_b38,rs9947962,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-6988
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_805558_C_G_b38,rs9947962,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-6988
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_807974_T_C_b38,rs12963050,ENSG00000176105.14,YES1,7525,3.34846465809699e-08,0.147102251648903,-4572
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_807974_T_C_b38,rs12963050,ENSG00000176105.14,YES1,7525,3.34846465809699e-08,0.147102251648903,-4572
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809504_T_C_b38,rs1940293,ENSG00000176105.14,YES1,7525,1.87741958001521e-09,0.177757263183594,-3042
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809504_T_C_b38,rs1940293,ENSG00000176105.14,YES1,7525,1.87741958001521e-09,0.177757263183594,-3042
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809772_C_A_b38,rs4121513,ENSG00000176105.14,YES1,7525,1.57662466102986e-09,0.161954402923584,-2774
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809772_C_A_b38,rs4121513,ENSG00000176105.14,YES1,7525,1.57662466102986e-09,0.161954402923584,-2774
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_810514_A_G_b38,rs9958540,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-2032
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_810514_A_G_b38,rs9958540,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-2032
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_811699_G_A_b38,rs4520909,ENSG00000176105.14,YES1,7525,7.86352889653338e-09,0.164940923452377,-847
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_811699_G_A_b38,rs4520909,ENSG00000176105.14,YES1,7525,7.86352889653338e-09,0.164940923452377,-847
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_812712_C_G_b38,rs7233932,ENSG00000176105.14,YES1,7525,4.23491936719954e-09,0.156959056854248,166
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_812712_C_G_b38,rs7233932,ENSG00000176105.14,YES1,7525,4.23491936719954e-09,0.156959056854248,166
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_813659_C_CT_b38,rs5822580,ENSG00000176105.14,YES1,7525,1.64997076727447e-09,0.165036216378212,1113
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_813659_C_CT_b38,rs5822580,ENSG00000176105.14,YES1,7525,1.64997076727447e-09,0.165036216378212,1113
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_814989_G_A_b38,rs7230070,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,2443
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_814989_G_A_b38,rs7230070,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,2443
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815329_C_T_b38,rs4121511,ENSG00000176105.14,YES1,7525,1.77360832766205e-08,0.155884623527527,2783
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815329_C_T_b38,rs4121511,ENSG00000176105.14,YES1,7525,1.77360832766205e-08,0.155884623527527,2783
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815367_G_C_b38,rs12960981,ENSG00000176105.14,YES1,7525,3.63917621537141e-08,0.179568961262703,2821
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815367_G_C_b38,rs12960981,ENSG00000176105.14,YES1,7525,3.63917621537141e-08,0.179568961262703,2821
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_816857_T_C_b38,rs9958182,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,4311
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_816857_T_C_b38,rs9958182,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,4311
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_817414_T_C_b38,rs4121512,ENSG00000176105.14,YES1,7525,1.93840489928986e-09,0.162662222981453,4868
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_817414_T_C_b38,rs4121512,ENSG00000176105.14,YES1,7525,1.93840489928986e-09,0.162662222981453,4868
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_819810_C_T_b38,rs8089369,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,7264
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_819810_C_T_b38,rs8089369,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,7264
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821034_T_C_b38,rs4417611,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8488
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821034_T_C_b38,rs4417611,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8488
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821515_G_A_b38,rs7238526,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8969
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821515_G_A_b38,rs7238526,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8969
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822828_A_G_b38,rs9957611,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,10282
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822828_A_G_b38,rs9957611,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,10282
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822937_G_T_b38,rs9967195,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,10391
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822937_G_T_b38,rs9967195,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,10391
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823472_A_G_b38,rs9960490,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,10926
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823472_A_G_b38,rs9960490,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,10926
-chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823918_A_G_b38,rs8089946,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,11372
-chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823918_A_G_b38,rs8089946,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,11372
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_334742_C_T_b38,rs2305027,ENSG00000158270.12,COLEC12,81035,2.88536232319899e-10,0.313580602407455,-165959
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12273033_T_A_b38,rs7243090,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-34636
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12273033_T_A_b38,rs7243090,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-34636
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12273033_T_A_b38,rs7243090,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-34636
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12273717_C_T_b38,rs4797664,ENSG00000176014.13,TUBB6,84617,9.53130871064869e-12,-0.330729752779007,-33952
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12273717_C_T_b38,rs4797664,ENSG00000176014.13,TUBB6,84617,9.53130871064869e-12,-0.330729752779007,-33952
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12273717_C_T_b38,rs4797664,ENSG00000176014.13,TUBB6,84617,9.53130871064869e-12,-0.330729752779007,-33952
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12273894_C_T_b38,rs12966216,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-33775
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12273894_C_T_b38,rs12966216,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-33775
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12273894_C_T_b38,rs12966216,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-33775
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12274105_G_T_b38,rs11545881,ENSG00000176014.13,TUBB6,84617,6.63028915756529e-12,-0.335572630167007,-33564
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12274105_G_T_b38,rs11545881,ENSG00000176014.13,TUBB6,84617,6.63028915756529e-12,-0.335572630167007,-33564
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12274105_G_T_b38,rs11545881,ENSG00000176014.13,TUBB6,84617,6.63028915756529e-12,-0.335572630167007,-33564
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12275831_C_CT_b38,rs11444877,ENSG00000176014.13,TUBB6,84617,1.25161368580343e-16,-0.399541169404984,-31838
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12275831_C_CT_b38,rs11444877,ENSG00000176014.13,TUBB6,84617,1.25161368580343e-16,-0.399541169404984,-31838
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12275831_C_CT_b38,rs11444877,ENSG00000176014.13,TUBB6,84617,1.25161368580343e-16,-0.399541169404984,-31838
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12276864_C_T_b38,rs35410058,ENSG00000176014.13,TUBB6,84617,7.0227274196896e-19,-0.428595185279846,-30805
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12276864_C_T_b38,rs35410058,ENSG00000176014.13,TUBB6,84617,7.0227274196896e-19,-0.428595185279846,-30805
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12276864_C_T_b38,rs35410058,ENSG00000176014.13,TUBB6,84617,7.0227274196896e-19,-0.428595185279846,-30805
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12279076_C_T_b38,rs4073975,ENSG00000176014.13,TUBB6,84617,1.86588967169615e-33,-0.547547698020935,-28593
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12279076_C_T_b38,rs4073975,ENSG00000176014.13,TUBB6,84617,1.86588967169615e-33,-0.547547698020935,-28593
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12279076_C_T_b38,rs4073975,ENSG00000176014.13,TUBB6,84617,1.86588967169615e-33,-0.547547698020935,-28593
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12283760_T_C_b38,rs10853223,ENSG00000176014.13,TUBB6,84617,1.07897362787983e-11,-0.352906554937363,-23909
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12283760_T_C_b38,rs10853223,ENSG00000176014.13,TUBB6,84617,1.07897362787983e-11,-0.352906554937363,-23909
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12283760_T_C_b38,rs10853223,ENSG00000176014.13,TUBB6,84617,1.07897362787983e-11,-0.352906554937363,-23909
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12285644_T_A_b38,rs34877234,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-22025
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12285644_T_A_b38,rs34877234,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-22025
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12285644_T_A_b38,rs34877234,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-22025
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12286114_G_A_b38,rs34396552,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21555
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12286114_G_A_b38,rs34396552,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21555
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12286114_G_A_b38,rs34396552,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21555
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12286549_G_C_b38,rs34855169,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21120
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12286549_G_C_b38,rs34855169,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21120
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12286549_G_C_b38,rs34855169,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21120
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12286937_T_A_b38,rs35989986,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20732
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12286937_T_A_b38,rs35989986,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20732
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12286937_T_A_b38,rs35989986,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20732
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12287027_GGCTGGTCTTGAACTCCTGGCCTCA_G_b38,rs67967717,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20642
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12287027_GGCTGGTCTTGAACTCCTGGCCTCA_G_b38,rs67967717,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20642
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12287027_GGCTGGTCTTGAACTCCTGGCCTCA_G_b38,rs67967717,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20642
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12287093_G_A_b38,rs60486622,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20576
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12287093_G_A_b38,rs60486622,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20576
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12287093_G_A_b38,rs60486622,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20576
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12290927_T_C_b38,rs28360693,ENSG00000176014.13,TUBB6,84617,5.33584176526102e-11,0.318571090698242,-16742
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12290927_T_C_b38,rs28360693,ENSG00000176014.13,TUBB6,84617,5.33584176526102e-11,0.318571090698242,-16742
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12290927_T_C_b38,rs28360693,ENSG00000176014.13,TUBB6,84617,5.33584176526102e-11,0.318571090698242,-16742
-chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12292569_G_A_b38,rs7407299,ENSG00000176014.13,TUBB6,84617,2.83067386823895e-10,0.298951387405396,-15100
-chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12292569_G_A_b38,rs7407299,ENSG00000176014.13,TUBB6,84617,2.83067386823895e-10,0.298951387405396,-15100
-chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12292569_G_A_b38,rs7407299,ENSG00000176014.13,TUBB6,84617,2.83067386823895e-10,0.298951387405396,-15100
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79966944_G_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.21743596115733e-08,-0.225817546248436,-67005
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79968135_G_T_b38,,ENSG00000141759.15,TXNL4A,10907,6.97081911410034e-09,-0.229608908295631,-65814
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79968594_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.1870762071295e-08,-0.226733356714249,-65355
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79969549_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,4.44981041859695e-09,-0.233293369412422,-64400
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79970197_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,4.85998972714274e-09,-0.233918577432632,-63752
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79970825_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,2.10772066554629e-09,-0.23984007537365,-63124
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79976365_T_A_b38,,ENSG00000141759.15,TXNL4A,10907,8.29257662322014e-10,-0.269087374210358,-57584
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79976735_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.43469099855765e-09,-0.242134049534798,-57214
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79977397_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,8.29657550890308e-09,-0.225281253457069,-56552
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79978025_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,8.29257662322014e-10,-0.269087374210358,-55924
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79979098_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,7.84960204423638e-10,-0.244756370782852,-54851
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79980544_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,7.84960204423638e-10,-0.244756370782852,-53405
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79982214_AAGC_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.86216434469708e-08,0.259239941835403,-51735
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79983996_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.28903934157569e-09,-0.242001071572304,-49953
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79984401_C_CT_b38,,ENSG00000141759.15,TXNL4A,10907,7.84960204423638e-10,-0.244756370782852,-49548
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79985640_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-48309
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79986623_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,2.5336704536709e-09,-0.239922717213631,-47326
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79987542_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.43469099855765e-09,-0.242134049534798,-46407
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79988525_A_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-45424
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79988975_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,3.62729041888229e-08,-0.234411001205444,-44974
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79989211_G_T_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-44738
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79991151_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,9.52898862958219e-10,-0.240505740046501,-42798
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79992801_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-41148
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79993037_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-40912
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79993043_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-40906
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79995179_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,2.99379973212264e-09,-0.239011466503143,-38770
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79995660_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-38289
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79995819_A_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-38130
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79996289_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-37660
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79996604_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-37345
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79996664_A_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-37285
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79997448_A_AAAT_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-36501
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79997882_T_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-36067
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79997949_T_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-36000
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79998837_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-35112
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_79999582_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-34367
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80002141_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,1.34667429955852e-09,-0.238494619727135,-31808
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80002824_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-31125
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80004353_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-29596
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80005618_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.85565215665846e-09,-0.239477828145027,-28331
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80005839_C_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-28110
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006298_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,9.52898862958219e-10,-0.240505740046501,-27651
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006438_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.85565215665846e-09,-0.239477828145027,-27511
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006478_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-27471
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80006936_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-27013
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80007204_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-26745
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80007566_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.20944152389244e-09,-0.242489472031593,-26383
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80007935_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,5.11113701317801e-09,-0.230866551399231,-26014
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80066399_C_G_b38,,ENSG00000141759.15,TXNL4A,10907,3.94318817849191e-09,-0.261027604341507,32450
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80073851_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,3.99972696696471e-09,0.261200934648514,39902
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80074355_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,3.99972696696471e-09,0.261200934648514,40406
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80074960_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,3.99972696696471e-09,0.261200934648514,41011
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80081068_G_C_b38,,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,47119
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80083688_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,49739
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80087736_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,3.94318817849191e-09,0.261027604341507,53787
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80087974_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,54025
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80090098_C_T_b38,,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,56149
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80091490_CTT_C_b38,,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,57541
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80091557_G_T_b38,,ENSG00000141759.15,TXNL4A,10907,5.05830666161563e-09,0.254171580076218,57608
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80098501_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,1.95714499826353e-09,0.26632171869278,64552
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80173368_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,139419
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80182722_G_T_b38,,ENSG00000141759.15,TXNL4A,10907,3.61312143122817e-08,0.237739026546478,148773
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80191205_T_C_b38,,ENSG00000141759.15,TXNL4A,10907,3.63460483102328e-08,0.23778323829174,157256
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80194756_A_C_b38,,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,160807
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80203646_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,169697
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80203650_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,4.72609841962388e-08,0.235014051198959,169701
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80230443_G_T_b38,,ENSG00000141759.15,TXNL4A,10907,1.31977463716737e-09,0.279336512088776,196494
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80245424_G_A_b38,,ENSG00000141759.15,TXNL4A,10907,1.69099959407668e-08,0.252947360277176,211475
+chr18,hsa03040,Spliceosome - Homo sapiens (human),Brain_Hypothalamus,chr18_80248871_A_G_b38,,ENSG00000141759.15,TXNL4A,10907,1.31977463716737e-09,0.279336512088776,214922
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62035781_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-151337
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62035781_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-151337
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62037635_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.16502524431015e-10,-0.276783466339111,-149483
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62037635_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.16502524431015e-10,-0.276783466339111,-149483
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62038111_G_A_b38,,ENSG00000197563.11,PIGN,23556,3.59424340042339e-09,-0.259158581495285,-149007
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62038111_G_A_b38,,ENSG00000197563.11,PIGN,23556,3.59424340042339e-09,-0.259158581495285,-149007
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62038408_G_C_b38,,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-148710
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62038408_G_C_b38,,ENSG00000197563.11,PIGN,23556,4.01683608936484e-09,-0.259930402040482,-148710
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62044077_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-143041
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62044077_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-143041
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62047558_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-139560
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62047558_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-139560
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62049522_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-137596
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62049522_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-137596
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62050509_G_A_b38,,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-136609
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62050509_G_A_b38,,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-136609
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62050893_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-136225
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62050893_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-136225
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62053097_G_A_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-134021
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62053097_G_A_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-134021
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62053751_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-133367
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62053751_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-133367
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62056420_C_G_b38,,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-130698
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62056420_C_G_b38,,ENSG00000197563.11,PIGN,23556,4.46216958307494e-09,-0.259504705667496,-130698
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62060153_T_A_b38,,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-126965
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62060153_T_A_b38,,ENSG00000197563.11,PIGN,23556,4.02241847937305e-09,-0.258636295795441,-126965
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62064501_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-122617
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62064501_C_T_b38,,ENSG00000197563.11,PIGN,23556,2.310080362598e-10,-0.276970416307449,-122617
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62067511_T_C_b38,,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-119607
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62067511_T_C_b38,,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-119607
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62068227_T_C_b38,,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-118891
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62068227_T_C_b38,,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-118891
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62069646_A_G_b38,,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-117472
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62069646_A_G_b38,,ENSG00000197563.11,PIGN,23556,7.5727672237103e-09,-0.253396153450012,-117472
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62084098_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-103020
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62084098_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-103020
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62085902_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.82084251625571e-10,-0.271100521087647,-101216
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62085902_A_G_b38,,ENSG00000197563.11,PIGN,23556,5.82084251625571e-10,-0.271100521087647,-101216
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62086220_A_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-100898
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62086220_A_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-100898
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62088570_A_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-98548
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62088570_A_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-98548
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62096320_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-90798
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62096320_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-90798
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62097496_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-89622
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62097496_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-89622
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62106277_T_A_b38,,ENSG00000197563.11,PIGN,23556,3.34842774509096e-10,-0.274782419204712,-80841
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62106277_T_A_b38,,ENSG00000197563.11,PIGN,23556,3.34842774509096e-10,-0.274782419204712,-80841
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62111888_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-75230
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62111888_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-75230
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62117886_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-69232
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62117886_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-69232
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62122411_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-64707
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62122411_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-64707
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62123227_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63891
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62123227_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63891
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62123808_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63310
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62123808_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-63310
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62124718_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-62400
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62124718_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-62400
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62131301_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55817
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62131301_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55817
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62131320_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55798
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62131320_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-55798
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62134263_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-52855
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62134263_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-52855
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62137618_C_G_b38,,ENSG00000197563.11,PIGN,23556,1.07514173332597e-08,-0.255318433046341,-49500
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62137618_C_G_b38,,ENSG00000197563.11,PIGN,23556,1.07514173332597e-08,-0.255318433046341,-49500
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62142272_C_A_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-44846
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62142272_C_A_b38,,ENSG00000197563.11,PIGN,23556,4.9052144403971e-10,-0.270996332168579,-44846
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147035_G_A_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-40083
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147035_G_A_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-40083
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147258_A_AT_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39860
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147258_A_AT_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39860
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147433_C_A_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39685
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147433_C_A_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39685
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147500_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39618
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147500_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39618
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147538_G_C_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39580
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147538_G_C_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-39580
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62147753_C_T_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39365
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62147753_C_T_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-39365
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62148649_G_C_b38,,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38469
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62148649_G_C_b38,,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38469
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62148887_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-38231
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62148887_T_C_b38,,ENSG00000197563.11,PIGN,23556,5.0489622903991e-10,-0.271605014801025,-38231
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62149058_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38060
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62149058_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-38060
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62151773_A_G_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-35345
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62151773_A_G_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-35345
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62152775_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.17300654485438e-09,-0.273322135210037,-34343
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62152775_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.17300654485438e-09,-0.273322135210037,-34343
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62153075_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-34043
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62153075_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.95854938476777e-09,-0.269710123538971,-34043
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62153529_A_C_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-33589
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62153529_A_C_b38,,ENSG00000197563.11,PIGN,23556,7.26038111600841e-10,-0.268175512552261,-33589
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62154716_G_A_b38,,ENSG00000197563.11,PIGN,23556,3.16569606977233e-09,-0.266413569450378,-32402
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62154716_G_A_b38,,ENSG00000197563.11,PIGN,23556,3.16569606977233e-09,-0.266413569450378,-32402
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62155086_A_C_b38,,ENSG00000197563.11,PIGN,23556,2.89792925607233e-09,-0.267492145299912,-32032
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62155086_A_C_b38,,ENSG00000197563.11,PIGN,23556,2.89792925607233e-09,-0.267492145299912,-32032
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156167_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.41316243569955e-09,-0.267369031906128,-30951
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156167_A_G_b38,,ENSG00000197563.11,PIGN,23556,2.41316243569955e-09,-0.267369031906128,-30951
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156304_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30814
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156304_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30814
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156502_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30616
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156502_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-30616
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62156652_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-30466
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62156652_G_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-30466
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62157257_A_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-29861
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62157257_A_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-29861
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62158271_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28847
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62158271_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28847
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62158285_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-28833
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62158285_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-28833
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62158593_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28525
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62158593_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-28525
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62159807_G_GT_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-27311
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62159807_G_GT_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-27311
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160099_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-27019
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160099_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-27019
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160236_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-26882
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160236_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-26882
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160271_A_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26847
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160271_A_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26847
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62160736_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26382
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62160736_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-26382
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62161536_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25582
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62161536_C_T_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25582
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62161939_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25179
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62161939_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-25179
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62162896_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-24222
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62162896_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-24222
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62163250_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-23868
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62163250_A_G_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-23868
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62163283_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-23835
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62163283_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-23835
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62164229_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-22889
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62164229_T_C_b38,,ENSG00000197563.11,PIGN,23556,4.03025578364129e-09,-0.264064282178879,-22889
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62164434_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-22684
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62164434_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-22684
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62167386_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19732
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62167386_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19732
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62167937_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19181
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62167937_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19181
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62168032_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19086
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62168032_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-19086
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62168775_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18343
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62168775_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18343
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62168807_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18311
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62168807_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-18311
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62169328_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17790
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62169328_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17790
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62169459_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17659
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62169459_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-17659
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62170170_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16948
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62170170_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16948
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62170375_G_GTC_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16743
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62170375_G_GTC_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16743
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62170974_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16144
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62170974_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-16144
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62171475_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-15643
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62171475_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-15643
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62172231_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-14887
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62172231_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-14887
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62172971_C_T_b38,,ENSG00000197563.11,PIGN,23556,8.14624476805545e-10,-0.268384873867035,-14147
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62172971_C_T_b38,,ENSG00000197563.11,PIGN,23556,8.14624476805545e-10,-0.268384873867035,-14147
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62173880_T_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13238
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62173880_T_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13238
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174005_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13113
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174005_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-13113
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174129_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12989
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174129_A_G_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12989
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174388_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12730
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174388_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12730
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62174860_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12258
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62174860_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-12258
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62175329_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11789
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62175329_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11789
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62175841_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11277
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62175841_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-11277
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62176186_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10932
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62176186_A_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10932
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62176758_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10360
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62176758_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10360
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62176854_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10264
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62176854_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-10264
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62179162_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-7956
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62179162_C_T_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-7956
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62180202_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-6916
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62180202_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-6916
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62181563_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-5555
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62181563_T_C_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-5555
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62182328_C_CA_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-4790
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62182328_C_CA_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-4790
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62183224_T_TGTTA_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-3894
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62183224_T_TGTTA_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-3894
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62184412_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-2706
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62184412_C_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-2706
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62184868_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.13194163248161e-09,-0.262034982442856,-2250
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62184868_T_C_b38,,ENSG00000197563.11,PIGN,23556,2.13194163248161e-09,-0.262034982442856,-2250
+chr18,hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_62185499_T_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-1619
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_62185499_T_A_b38,,ENSG00000197563.11,PIGN,23556,1.14778762191871e-09,-0.265146732330322,-1619
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35647917_C_G_b38,,ENSG00000141429.14,GALNT1,2589,2.35363650964629e-08,-0.504973888397217,66800
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35647917_C_G_b38,,ENSG00000141429.14,GALNT1,2589,2.35363650964629e-08,-0.504973888397217,66800
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35664933_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,83816
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35664933_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,83816
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35680266_T_A_b38,,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,99149
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35680266_T_A_b38,,ENSG00000141429.14,GALNT1,2589,3.99111034370338e-08,-0.535827159881592,99149
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35705427_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,124310
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35705427_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,124310
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35707496_T_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126379
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35707496_T_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126379
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35707706_A_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126589
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35707706_A_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,126589
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35711438_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130321
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35711438_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130321
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35711929_C_A_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130812
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35711929_C_A_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,130812
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35712840_G_A_b38,,ENSG00000141429.14,GALNT1,2589,2.95627245315046e-08,-0.530301690101624,131723
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35712840_G_A_b38,,ENSG00000141429.14,GALNT1,2589,2.95627245315046e-08,-0.530301690101624,131723
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35714360_C_CGTT_b38,,ENSG00000141429.14,GALNT1,2589,4.05817377411143e-08,-0.509978294372559,133243
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35714360_C_CGTT_b38,,ENSG00000141429.14,GALNT1,2589,4.05817377411143e-08,-0.509978294372559,133243
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35714852_G_A_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,133735
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35714852_G_A_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,133735
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35719161_T_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138044
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35719161_T_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138044
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35720082_G_A_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138965
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35720082_G_A_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,138965
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35720490_T_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,139373
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35720490_T_C_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,139373
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35724119_C_T_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,143002
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35724119_C_T_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,143002
+chr18,hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),Brain_Hypothalamus,chr18_35728352_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,147235
+chr18,hsa01100,Metabolic pathways - Homo sapiens (human),Brain_Hypothalamus,chr18_35728352_A_G_b38,,ENSG00000141429.14,GALNT1,2589,3.87159500920207e-08,-0.510922312736511,147235
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_771046_C_G_b38,,ENSG00000176105.14,YES1,7525,4.4931665861762e-08,0.17895545065403,-41500
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_771046_C_G_b38,,ENSG00000176105.14,YES1,7525,4.4931665861762e-08,0.17895545065403,-41500
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_772063_T_C_b38,,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-40483
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_772063_T_C_b38,,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-40483
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_773091_T_C_b38,,ENSG00000176105.14,YES1,7525,1.01753252279278e-08,0.180619806051254,-39455
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_773091_T_C_b38,,ENSG00000176105.14,YES1,7525,1.01753252279278e-08,0.180619806051254,-39455
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_777281_T_A_b38,,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-35265
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_777281_T_A_b38,,ENSG00000176105.14,YES1,7525,9.2933982702516e-09,0.180797874927521,-35265
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_784547_G_A_b38,,ENSG00000176105.14,YES1,7525,1.05108934899989e-09,0.160639464855194,-27999
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_784547_G_A_b38,,ENSG00000176105.14,YES1,7525,1.05108934899989e-09,0.160639464855194,-27999
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_786568_T_C_b38,,ENSG00000176105.14,YES1,7525,1.08519088303246e-08,0.181922018527985,-25978
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_786568_T_C_b38,,ENSG00000176105.14,YES1,7525,1.08519088303246e-08,0.181922018527985,-25978
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_796460_T_G_b38,,ENSG00000176105.14,YES1,7525,3.89036356584623e-08,0.149174883961678,-16086
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_796460_T_G_b38,,ENSG00000176105.14,YES1,7525,3.89036356584623e-08,0.149174883961678,-16086
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798268_C_T_b38,,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14278
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798268_C_T_b38,,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14278
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798446_C_T_b38,,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14100
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_798446_C_T_b38,,ENSG00000176105.14,YES1,7525,3.7537553206997e-08,0.149175077676773,-14100
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_800536_G_A_b38,,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-12010
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_800536_G_A_b38,,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-12010
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803577_C_G_b38,,ENSG00000176105.14,YES1,7525,2.33365609666393e-09,0.158891916275024,-8969
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803577_C_G_b38,,ENSG00000176105.14,YES1,7525,2.33365609666393e-09,0.158891916275024,-8969
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803838_T_G_b38,,ENSG00000176105.14,YES1,7525,1.77786454025248e-09,0.160478532314301,-8708
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_803838_T_G_b38,,ENSG00000176105.14,YES1,7525,1.77786454025248e-09,0.160478532314301,-8708
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_804013_T_C_b38,,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-8533
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_804013_T_C_b38,,ENSG00000176105.14,YES1,7525,3.16899886528437e-08,0.148901462554932,-8533
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_805558_C_G_b38,,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-6988
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_805558_C_G_b38,,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-6988
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_807974_T_C_b38,,ENSG00000176105.14,YES1,7525,3.34846465809699e-08,0.147102251648903,-4572
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_807974_T_C_b38,,ENSG00000176105.14,YES1,7525,3.34846465809699e-08,0.147102251648903,-4572
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809504_T_C_b38,,ENSG00000176105.14,YES1,7525,1.87741958001521e-09,0.177757263183594,-3042
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809504_T_C_b38,,ENSG00000176105.14,YES1,7525,1.87741958001521e-09,0.177757263183594,-3042
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809772_C_A_b38,,ENSG00000176105.14,YES1,7525,1.57662466102986e-09,0.161954402923584,-2774
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_809772_C_A_b38,,ENSG00000176105.14,YES1,7525,1.57662466102986e-09,0.161954402923584,-2774
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_810514_A_G_b38,,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-2032
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_810514_A_G_b38,,ENSG00000176105.14,YES1,7525,1.28666485928469e-09,0.162199273705482,-2032
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_811699_G_A_b38,,ENSG00000176105.14,YES1,7525,7.86352889653338e-09,0.164940923452377,-847
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_811699_G_A_b38,,ENSG00000176105.14,YES1,7525,7.86352889653338e-09,0.164940923452377,-847
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_812712_C_G_b38,,ENSG00000176105.14,YES1,7525,4.23491936719954e-09,0.156959056854248,166
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_812712_C_G_b38,,ENSG00000176105.14,YES1,7525,4.23491936719954e-09,0.156959056854248,166
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_813659_C_CT_b38,,ENSG00000176105.14,YES1,7525,1.64997076727447e-09,0.165036216378212,1113
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_813659_C_CT_b38,,ENSG00000176105.14,YES1,7525,1.64997076727447e-09,0.165036216378212,1113
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_814989_G_A_b38,,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,2443
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_814989_G_A_b38,,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,2443
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815329_C_T_b38,,ENSG00000176105.14,YES1,7525,1.77360832766205e-08,0.155884623527527,2783
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815329_C_T_b38,,ENSG00000176105.14,YES1,7525,1.77360832766205e-08,0.155884623527527,2783
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815367_G_C_b38,,ENSG00000176105.14,YES1,7525,3.63917621537141e-08,0.179568961262703,2821
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_815367_G_C_b38,,ENSG00000176105.14,YES1,7525,3.63917621537141e-08,0.179568961262703,2821
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_816857_T_C_b38,,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,4311
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_816857_T_C_b38,,ENSG00000176105.14,YES1,7525,1.61118509673354e-09,0.165062129497528,4311
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_817414_T_C_b38,,ENSG00000176105.14,YES1,7525,1.93840489928986e-09,0.162662222981453,4868
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_817414_T_C_b38,,ENSG00000176105.14,YES1,7525,1.93840489928986e-09,0.162662222981453,4868
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_819810_C_T_b38,,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,7264
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_819810_C_T_b38,,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,7264
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821034_T_C_b38,,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8488
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821034_T_C_b38,,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8488
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821515_G_A_b38,,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8969
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_821515_G_A_b38,,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,8969
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822828_A_G_b38,,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,10282
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822828_A_G_b38,,ENSG00000176105.14,YES1,7525,9.19593131811015e-09,0.155452311038971,10282
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822937_G_T_b38,,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,10391
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_822937_G_T_b38,,ENSG00000176105.14,YES1,7525,7.45487843652056e-09,0.156558096408844,10391
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823472_A_G_b38,,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,10926
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823472_A_G_b38,,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,10926
+chr18,hsa04520,Adherens junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823918_A_G_b38,,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,11372
+chr18,hsa04530,Tight junction - Homo sapiens (human),Brain_Hypothalamus,chr18_823918_A_G_b38,,ENSG00000176105.14,YES1,7525,1.74156415123767e-08,0.154835984110832,11372
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_334742_C_T_b38,,ENSG00000158270.12,COLEC12,81035,2.88536232319899e-10,0.313580602407455,-165959
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12273033_T_A_b38,,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-34636
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12273033_T_A_b38,,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-34636
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12273033_T_A_b38,,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-34636
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12273717_C_T_b38,,ENSG00000176014.13,TUBB6,84617,9.53130871064869e-12,-0.330729752779007,-33952
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12273717_C_T_b38,,ENSG00000176014.13,TUBB6,84617,9.53130871064869e-12,-0.330729752779007,-33952
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12273717_C_T_b38,,ENSG00000176014.13,TUBB6,84617,9.53130871064869e-12,-0.330729752779007,-33952
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12273894_C_T_b38,,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-33775
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12273894_C_T_b38,,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-33775
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12273894_C_T_b38,,ENSG00000176014.13,TUBB6,84617,9.94251786905333e-12,-0.331222057342529,-33775
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12274105_G_T_b38,,ENSG00000176014.13,TUBB6,84617,6.63028915756529e-12,-0.335572630167007,-33564
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12274105_G_T_b38,,ENSG00000176014.13,TUBB6,84617,6.63028915756529e-12,-0.335572630167007,-33564
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12274105_G_T_b38,,ENSG00000176014.13,TUBB6,84617,6.63028915756529e-12,-0.335572630167007,-33564
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12275831_C_CT_b38,,ENSG00000176014.13,TUBB6,84617,1.25161368580343e-16,-0.399541169404984,-31838
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12275831_C_CT_b38,,ENSG00000176014.13,TUBB6,84617,1.25161368580343e-16,-0.399541169404984,-31838
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12275831_C_CT_b38,,ENSG00000176014.13,TUBB6,84617,1.25161368580343e-16,-0.399541169404984,-31838
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12276864_C_T_b38,,ENSG00000176014.13,TUBB6,84617,7.0227274196896e-19,-0.428595185279846,-30805
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12276864_C_T_b38,,ENSG00000176014.13,TUBB6,84617,7.0227274196896e-19,-0.428595185279846,-30805
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12276864_C_T_b38,,ENSG00000176014.13,TUBB6,84617,7.0227274196896e-19,-0.428595185279846,-30805
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12279076_C_T_b38,,ENSG00000176014.13,TUBB6,84617,1.86588967169615e-33,-0.547547698020935,-28593
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12279076_C_T_b38,,ENSG00000176014.13,TUBB6,84617,1.86588967169615e-33,-0.547547698020935,-28593
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12279076_C_T_b38,,ENSG00000176014.13,TUBB6,84617,1.86588967169615e-33,-0.547547698020935,-28593
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12283760_T_C_b38,,ENSG00000176014.13,TUBB6,84617,1.07897362787983e-11,-0.352906554937363,-23909
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12283760_T_C_b38,,ENSG00000176014.13,TUBB6,84617,1.07897362787983e-11,-0.352906554937363,-23909
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12283760_T_C_b38,,ENSG00000176014.13,TUBB6,84617,1.07897362787983e-11,-0.352906554937363,-23909
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12285644_T_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-22025
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12285644_T_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-22025
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12285644_T_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-22025
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12286114_G_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21555
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12286114_G_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21555
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12286114_G_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21555
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12286549_G_C_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21120
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12286549_G_C_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21120
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12286549_G_C_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-21120
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12286937_T_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20732
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12286937_T_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20732
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12286937_T_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20732
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12287027_GGCTGGTCTTGAACTCCTGGCCTCA_G_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20642
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12287027_GGCTGGTCTTGAACTCCTGGCCTCA_G_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20642
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12287027_GGCTGGTCTTGAACTCCTGGCCTCA_G_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20642
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12287093_G_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20576
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12287093_G_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20576
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12287093_G_A_b38,,ENSG00000176014.13,TUBB6,84617,6.41986250816699e-12,-0.343944609165192,-20576
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12290927_T_C_b38,,ENSG00000176014.13,TUBB6,84617,5.33584176526102e-11,0.318571090698242,-16742
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12290927_T_C_b38,,ENSG00000176014.13,TUBB6,84617,5.33584176526102e-11,0.318571090698242,-16742
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12290927_T_C_b38,,ENSG00000176014.13,TUBB6,84617,5.33584176526102e-11,0.318571090698242,-16742
+chr18,hsa04145,Phagosome - Homo sapiens (human),Brain_Hypothalamus,chr18_12292569_G_A_b38,,ENSG00000176014.13,TUBB6,84617,2.83067386823895e-10,0.298951387405396,-15100
+chr18,hsa04540,Gap junction - Homo sapiens (human),Brain_Hypothalamus,chr18_12292569_G_A_b38,,ENSG00000176014.13,TUBB6,84617,2.83067386823895e-10,0.298951387405396,-15100
+chr18,hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),Brain_Hypothalamus,chr18_12292569_G_A_b38,,ENSG00000176014.13,TUBB6,84617,2.83067386823895e-10,0.298951387405396,-15100

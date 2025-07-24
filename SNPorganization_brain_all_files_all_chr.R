@@ -35,50 +35,106 @@ KEGG_DATA_RDS_FILE <- "kegg_hsa_pathways_via_bioc_v10_hg38.rds"
 
 # --- II. One-Time Setup: Variant Lookup Database ---
 message("\n--- Part 1: Setting up Variant Lookup Database (if needed) ---")
+
 if (!file.exists(VARIANT_DB_FILE)) {
   message(paste("Database not found. Creating", VARIANT_DB_FILE, "from", basename(LOOKUP_TABLE_GZ_FILE)))
   message("This is a one-time setup and may take several minutes...")
+  
   if (!file.exists(LOOKUP_TABLE_GZ_FILE)) {
     stop(paste("FATAL: Variant lookup file not found at:", LOOKUP_TABLE_GZ_FILE))
   }
+  
+  # First, examine the file structure
+  message("Examining file structure...")
+  header_info <- fread(LOOKUP_TABLE_GZ_FILE, nrows = 0)
+  message("Available columns: ", paste(colnames(header_info), collapse = ", "))
+  
+  # Verify required columns exist
+  required_cols <- c("variant_id", "rs_id_dbSNP155_GRCh38p13")
+  missing_cols <- setdiff(required_cols, colnames(header_info))
+  if (length(missing_cols) > 0) {
+    stop(paste("FATAL: Required columns not found:", paste(missing_cols, collapse = ", ")))
+  }
   con <- dbConnect(RSQLite::SQLite(), VARIANT_DB_FILE)
   
-  tryCatch({
-    lookup_data <- fread(
-      LOOKUP_TABLE_GZ_FILE,
-      select = c("variant_id", RSID_COLUMN_NAME_IN_LOOKUP),
-      colClasses = c("character", "character")
-    )
-    setnames(lookup_data, RSID_COLUMN_NAME_IN_LOOKUP, "rsID")
-    dbWriteTable(con, "variants", lookup_data, append = TRUE)
-  }, error = function(e) {
-    chunk_size <- 500000
-    skip_rows <- 0
-    header_line <- fread(LOOKUP_TABLE_GZ_FILE, nrows = 0)
-    repeat {
-      chunk <- fread(
-        LOOKUP_TABLE_GZ_FILE,
-        skip = skip_rows + 1,
-        nrows = chunk_size,
-        select = c("variant_id", RSID_COLUMN_NAME_IN_LOOKUP),
-        colClasses = c("character", "character"),
-        header = FALSE,
-        col.names = c("variant_id", RSID_COLUMN_NAME_IN_LOOKUP)
-      )
-      if (nrow(chunk) == 0) break
-      setnames(chunk, RSID_COLUMN_NAME_IN_LOOKUP, "rsID")
-      dbWriteTable(con, "variants", chunk, append = TRUE)
-      skip_rows <- skip_rows + chunk_size
-      if (nrow(chunk) < chunk_size) break
-    }
-  })
+  # Set up chunked reading parameters
+  chunk_size <- 1000000  # 1M rows per chunk
+  total_rows_processed <- 0
+  chunk_number <- 0
   
-  message("Creating index on 'variant_id' for fast lookups... (This is crucial!)")
-  dbExecute(con, "CREATE UNIQUE INDEX idx_variant_id ON variants (variant_id);")
+  message("Starting chunked data processing...")
+  
+  # Process file in chunks
+  repeat {
+    chunk_number <- chunk_number + 1
+    message(sprintf("Processing chunk %d (starting from row %s)...", 
+                    chunk_number, format(total_rows_processed + 1, big.mark=",")))
+    chunk_data <- fread(
+      file = LOOKUP_TABLE_GZ_FILE,
+      skip = total_rows_processed,
+      nrows = chunk_size,
+      select = c("variant_id", "rs_id_dbSNP155_GRCh38p13"),
+      colClasses = list(character = c("variant_id", "rs_id_dbSNP155_GRCh38p13")),
+      showProgress = FALSE
+    )
+    if (nrow(chunk_data) == 0) {
+      message("Reached end of file")
+      break
+    }
+    
+    message(sprintf("Read %s rows in chunk %d", format(nrow(chunk_data), big.mark=","), chunk_number))
+    setnames(chunk_data, "rs_id_dbSNP155_GRCh38p13", "rsID")
+    chunk_data <- chunk_data[!is.na(variant_id) & variant_id != ""]
+    
+    if (nrow(chunk_data) > 0) {
+      dbWriteTable(con, "variants", chunk_data, append = TRUE)
+      message(sprintf("Wrote %s rows to database", format(nrow(chunk_data), big.mark=",")))
+    }
+    
+    total_rows_processed <- total_rows_processed + nrow(chunk_data)
+    if (nrow(chunk_data) < chunk_size) {
+      message("Reached end of file (chunk smaller than expected)")
+      break
+    }
+    
+    # Progress update every 5 chunks
+    if (chunk_number %% 5 == 0) {
+      message(sprintf("Progress: %s total rows processed so far", 
+                      format(total_rows_processed, big.mark=",")))
+    }
+  }
+
+  final_count <- dbGetQuery(con, "SELECT COUNT(*) as count FROM variants")$count
+  message(sprintf("Database loading complete. Total rows in database: %s", 
+                  format(final_count, big.mark=",")))
+  
+  if (final_count == 0) {
+    dbDisconnect(con)
+    file.remove(VARIANT_DB_FILE)
+    stop("FATAL: No data was loaded into the database")
+  }
+  
+  message("Creating index on 'variant_id' for fast lookups...")
+  start_time <- Sys.time()
+  dbExecute(con, "CREATE UNIQUE INDEX IF NOT EXISTS idx_variant_id ON variants (variant_id)")
+  end_time <- Sys.time()
+  message(sprintf("Index created in %.1f seconds", as.numeric(end_time - start_time, units = "secs")))
+  
+  # Show some sample data
+  sample_data <- dbGetQuery(con, "SELECT * FROM variants LIMIT 5")
+  message("Sample data from database:")
+  print(sample_data)
+  
   dbDisconnect(con)
-  message("Database setup and indexing complete.")
+  message("Database setup complete!")
+  
 } else {
   message(paste("Found existing variant lookup database:", VARIANT_DB_FILE))
+  
+  con <- dbConnect(RSQLite::SQLite(), VARIANT_DB_FILE)
+  row_count <- dbGetQuery(con, "SELECT COUNT(*) as count FROM variants")$count
+  message(sprintf("Existing database contains %s variant records", format(row_count, big.mark=",")))
+  dbDisconnect(con)
 }
 
 
