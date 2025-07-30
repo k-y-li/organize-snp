@@ -1,24 +1,3 @@
----
-title: "SNP Database Documentation: Brain Tissue eQTL-Pathway Analysis"
-author: "Kevin Li"
-date: "07-29-2025"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    theme: united
-    highlight: tango
-  pdf_document:
-    toc: true
-    number_sections: true
-bibliography: references.bib
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
-```
-
 # Overview
 
 **Single nucleotide polymorphisms (SNPs)** are sequence differences that affect a single nucleotide and are considered to be the most common genetic variation type in the human genome. SNPs are highly abundant throughout the human genome, occurring at a rate of approximately one every 1,000 base pairs. While most SNPs are located in the non-coding regions of a DNA sequence (AKA the exon) and therefore have no noticeable effect, some SNPs can have functions that lead to protein structure differences or gene expression regulation. These SNPs are referred to as **eQTLs**, or **expression quantitative trait loci**, and are formally defined as the locations in a species genome where a genetic variation is associated with differing gene expression levels (Nica & Dermitzakis, 2013). Specifically, a lot of research focuses on the purpose of *cis-eQTLs*, which are located close to and regulate one or several nearby genes (approximately 1 million bp from a transcription start site) (Pritchard, 2023).
