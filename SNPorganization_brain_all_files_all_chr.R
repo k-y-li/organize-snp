@@ -146,8 +146,10 @@ if (file.exists(KEGG_DATA_RDS_FILE)) {
   kegg_pathways_df <- as.data.table(readRDS(KEGG_DATA_RDS_FILE))
 } else {
   message("Constructing KEGG pathway-gene relationships using org.Hs.eg.db...")
-  kegg_mappings <- tryCatch(AnnotationDbi::select(org.Hs.eg.db, keys = keys(org.Hs.eg.db, keytype = "ENTREZID"),
-                                                  columns = c("PATH", "SYMBOL"), keytype = "ENTREZID"),
+  kegg_mappings <- tryCatch(AnnotationDbi::select(org.Hs.eg.db, 
+                                                  keys = keys(org.Hs.eg.db, keytype = "ENTREZID"),
+                                                  columns = c("PATH", "SYMBOL"), 
+                                                  keytype = "ENTREZID"),
                             error = function(e) { message("Error: ", e$message); NULL })
   if (is.null(kegg_mappings) || nrow(kegg_mappings) == 0) stop("Could not get KEGG mappings from org.Hs.eg.db.")
   kegg_mappings_filtered <- kegg_mappings[!is.na(kegg_mappings$PATH), ]
